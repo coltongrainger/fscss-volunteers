@@ -11,13 +11,13 @@ The Family Support Center is always open to schedule volunteers for skills & eng
 ## Application Process
 
 1. Complete the [volunteer application](https://www.volgistics.com/ex/portal.dll/ap?ap=1953929563).
-	i. We review the application and get back to you in 48 hours.
-	i. We run background checks.
+  i. We review the application and get back to you in 48 hours.
+  i. We run background checks.
 2. Attend a volunteer orientation with **Keiya Johnson** or **Colton Grainger**.
-	i. We discuss [mandatory reporting](https://prezi.com/piml7bn_b0au/mandatory-reporter-presentation/) and client confidentiality.
+  i. We discuss [mandatory reporting](https://prezi.com/piml7bn_b0au/mandatory-reporter-presentation/) and client confidentiality.
 3. Come for a training shift at Pear Blossom Place.
-	i. We pair you with someone who has experience volunteering.
-	i. We give you login information for [volunteer self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
+  i. We pair you with someone who has experience volunteering.
+  i. We give you login information for [volunteer self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
 
 That's it!
 

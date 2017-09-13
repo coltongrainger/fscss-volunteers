@@ -19,26 +19,23 @@ We will also schedule volunteers for special events that support families and ch
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
 
-## Schedule
+## Volunteer Shifts
 
-**Pear Blossom Place**
-
-- Daytime 
-	- weekends/holidays only
-	- 8:00am -- 12:30pm
-	- 12:30pm -- 5:00pm 
-- Greeter
-	- 5:00pm -- 7:30pm 
-- Overnight Host
-	- 7:00pm -- 7:00am
-
-**Downtown Office**
-
-- Donation Room
-	- walk-in
-	- Monday -- Friday
-- Special Events
-	- as scheduled
+| **Pear Blossom Place** |   |
+|---|---|
+| Daytime | (weekends/holidays only) |
+|   | 8:00am -- 12:30pm |
+|   | 12:30pm -- 5:00pm |
+| Greeter | (daily)|
+|   | 5:00pm -- 7:30pm |  
+| Overnight Host | (daily) |
+|   | 7:00pm -- 7:00am |
+|---|---|---|
+| **Downtown Office** |   |
+|---|---|
+| Donation Room | (Monday -- Friday) |
+|   | anytime 8am -- 5pm |
+| Special Events | (as scheduled) |
 
 ## Administrative
 

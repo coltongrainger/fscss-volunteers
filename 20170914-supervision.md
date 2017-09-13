@@ -1,3 +1,7 @@
+---
+layout: default
+title: 9/14/17 Agenda
+---
 
 ## Screen and Match
 - application

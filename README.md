@@ -1,12 +1,10 @@
 ## Volunteer Opportunities
 
-The family homeless shelter, Pear Blossom Place, is kept open 24/7 because of **shift volunteers**. There is always at least one staff person on site from 9am at the latest to 5pm at the earliest seven days a week. During the week the shelter has interns and work study staff that also work 9am--5pm.
+Volunteers keep our family shelter, Pear Blossom Place, open 24 hours a day. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.
 
-Volunteer shifts are **Overnight Hosts**, **Greeters**, and **Weekend/Holiday Daytime**. The overnight host shift is 12 hours with the opportunity to sleep. The greeter shift is 2.5 hours as parents are arriving home from work and getting their dinners prepared. The weekend/holiday daytime shifts are 4 hours when interns and work study staff are not available.
+The downtown office houses a large donation room for our client's use. Volunteers may access this room whenever the office is open. It is in constant need of TLC.
 
-As well, the donation room is on site at the Family Support Center office in downtown Olympia. It is accessible for **walk-in volunteering** 9am--5pm M--F. This room is in constant need of TLC. The Family Support Center get donations almost daily and clients accessing the space for items throughout the day. 
-
-The Family Support Center is always open to schedule volunteers for skills & engagement events that help support the families and the children. Feel free to plan activities around nutrition, food & gardening, reading, computer skills, Wikipedia, or music! 
+We will also schedule volunteers for special events that support families and children. When possible, we coordinate group meals, birthday parties, and educational activities.
 
 ## Application Process
 
@@ -20,5 +18,14 @@ The Family Support Center is always open to schedule volunteers for skills & eng
   * We pair you with someone who has experience volunteering.
   * We give you login information for [volunteer self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
 
-That's it!
+## Administrative
 
+- Here are the [results](https://coltongrainger.github.io/fscss-volunteers/20170901-survey.md) of a 8/29/17 [volunteer survey](https://form.jotform.us/72408009675156).
+- Here's the [agenda](https://coltongrainger.github.io/fscss-volunteers/20170901-supervision.md) for 9/14/17 supervisory meeting.
+
+## Contact
+
+Colton Grainger<br>
+**Community Engagement Specialist**<br>
+Family Support Center of South Sound<br>
+coltong@fscss.org

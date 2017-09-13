@@ -73,7 +73,7 @@ I agree to maintain client confidentiality at all times. All information, writte
 
 - I understand that my volunteer relationship with FSCSS may be terminated by me or FSCSS at any time for any reason.
 
-# Mandated Reported Acknowledgement
+# Mandated Reporter Acknowledgement
 
 I understand the requirements of Washington State Mandated Reporting. I agreed to report any suspected child abuse and/or neglect to DSHS and to the Family Support Center management as soon as I learn, suspect, or observe abuse/neglect.
 

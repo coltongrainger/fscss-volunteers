@@ -40,7 +40,7 @@ We will also schedule volunteers for special events that support families and ch
 ## Administrative
 
 - Here are the [results](https://coltongrainger.github.io/fscss-volunteers/20170901-survey.md) of a 8/29/17 [survey](https://form.jotform.us/72408009675156).
-- Here's the [agenda](https://coltongrainger.github.io/fscss-volunteers/20170901-supervision.md) for 9/14/17 supervisory meeting.
+- Here's the [agenda](https://coltongrainger.github.io/fscss-volunteers/20170914-supervision.md) for 9/14/17 supervisory meeting.
 
 ## Contact
 

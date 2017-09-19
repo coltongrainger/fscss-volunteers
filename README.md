@@ -25,7 +25,7 @@ We will also schedule volunteers for special events that support families and ch
   * We run background checks.
 2. Attend a volunteer orientation with **Keiya Johnson** or **Colton Grainger**.
   * We discuss [mandatory reporting](https://prezi.com/piml7bn_b0au/mandatory-reporter-presentation/) and client confidentiality.
-  * Here are the [agreements](/enroll).
+  * Here are the [agreements](/fscss-volunteers/enroll).
 3. Come for a training shift at Pear Blossom Place.
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
@@ -33,8 +33,8 @@ We will also schedule volunteers for special events that support families and ch
 
 ## Administrative
 
-- Here are the [results](/survey) of a 8/29/17 volunteer feedback [survey](https://form.jotform.us/72408009675156).
-- We are looking for volunteers to create content for a ne  blog.
+- Here are the [results](/fscss-volunteers/survey) of a 8/29/17 volunteer feedback [survey](https://form.jotform.us/72408009675156).
+- We are looking for volunteers to create content for a new blog.
 
 ## Contact
 

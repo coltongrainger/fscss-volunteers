@@ -1,2 +1,15 @@
 theme: jekyll-theme-minimal
-description: [For the Family Support Center of South Sound in Olympia Washington]
+title: [Volunteer at the Family Support Center!]
+description: [Olympia&#44; Washington]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+    scope:
+      path: "_posts"
+    values:
+      permalink: /:title:output_ext

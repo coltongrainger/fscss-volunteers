@@ -1,3 +1,12 @@
+---
+title: Sepember Supervision
+author: Colton Grainger
+created: 2017-08-21
+tags: [admin, sustainability]
+---
+
+These are notes for a supervisory meeting.
+
 # Volunteers
 
 ## Plan 

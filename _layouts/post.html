@@ -1,10 +1,18 @@
 {% include head.html %}
 <div class="wrapper">
-    <header>
+  <header>
     <div align = "right">
       <a href="http://fscss.org/">
         <img src="/images/logo.png" style="float: right; margin: 0px 0px 23px 23px" width="200">
       </a>
+      <h1 style="font-style: italic"> 
+        Volunteer Site 
+      </h1>
+      <a href="https://www.volgistics.com/ex/portal.dll/ap?ap=1953929563" style="font-size:20px; font-style: italic">
+        Apply online today! 
+      </a>
+      <br>
+      <br>
       {% assign sorted_pages = site.html_pages | sort:"order" %} 
       {% for p in sorted_pages %}
       <a 
@@ -19,10 +27,13 @@
   </header>
   <section>
 
-  <h1> {{ page.title }} </h1>
-  <p> created: {{page.created}} | tags: {{page.tags}} </p>
+    <h1> {{ page.title }} </h1> 
+    <p> 
+      created: {{page.created}} | 
+      tags: {{page.tags}}       
+    </p>
 
-  {{ content }}
+    {{ content }}
 
   </section>
   <footer>

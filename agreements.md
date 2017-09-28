@@ -32,9 +32,9 @@ The records that are kept on clients should be used only for the program purpose
 
 Remember that persons always have immediate access to their data on file. Keep all information to facts and not speculation.
 
-*The only exception to this ruling is mandated report of abuse & neglect to childer and vulnerable adults as described an in accordance with Washington State laws and regulations.*
+*The only exception to this ruling is mandated report of abuse & neglect to childern and vulnerable adults as described an in accordance with Washington State laws and regulations.*
 
-The following is presented to provide some guidlines concerning matters of confidentiality and the rights of the persons who participate in our programs:
+The following is presented to provide some guidelines concerning matters of confidentiality and the rights of the persons who participate in our programs:
 - The right to have all records kept from public scrutiny and the right to anonymity and confidentiality
 - The right to be treated with dignity and respect.
 - The right to a timely response.
@@ -56,15 +56,15 @@ I agree to maintain client confidentiality at all times. All information, writte
 
 # Role Acknowledgement
 
-- I accept the role of **volunteer**[^interns] in Homeless Family Services at the Family Support Center of South Sound. I give my volunteer services and donate my time gratuitously to FSCSS of my own volition because I wish to support the mission of the orgainzation, "Working Together to Strengthen All Families", without expectation of compensation.
+- I accept the role of **volunteer**[^interns] in Homeless Family Services at the Family Support Center of South Sound. I give my volunteer services and donate my time gratuitously to FSCSS of my own volition because I wish to support the mission of the organization, "Working Together to Strengthen All Families", without expectation of compensation.
 
-- I understand I am not an employee of FSCSS and that there is no employer-employee relationship. I understand that if FSCSS wishes to recognize my volunteer efforts with an appreciative nomial fee or gift, I may or may not choose to accept it and that any nomial fee or gift that I recieve is not related to the number of hours I volunteer.
+- I understand I am not an employee of FSCSS and that there is no employer-employee relationship. I understand that if FSCSS wishes to recognize my volunteer efforts with an appreciative nominal fee or gift, I may or may not choose to accept it and that any nominal fee or gift that I receive is not related to the number of hours I volunteer.
 
-- I am fully aware that the work associated with being a volunteer involves certain risks of physical injury or death. Being fully informed as to these risks, I hereby assume all risk of injury, damage, and harm to myself arising from such activiites or use of FSCSS facilities. If I am injured while acting as a volunteer of FSCSS, I must immediately report this injury to a FSCSS supervisor or on-call staff. I authorize necessary emergency medical treatment that might be required for me.
+- I am fully aware that the work associated with being a volunteer involves certain risks of physical injury or death. Being fully informed as to these risks, I hereby assume all risk of injury, damage, and harm to myself arising from such activities or use of FSCSS facilities. If I am injured while acting as a volunteer of FSCSS, I must immediately report this injury to a FSCSS supervisor or on-call staff. I authorize necessary emergency medical treatment that might be required for me.
 
 - I understand that as a volunteer, I must comply with FSCSS policies and procedures and applicable Federal and Washington State laws, including RCW 26.44.030 Child Abuse Mandated Reporting Law.
 
-- I understand that I may be reimbursed for expenses or travel mileage I incur as a volunteer if I recieve pre-authorization to incur the expense from authorized FSCSS personnel. If I do not receive pre-authorization, expenses I choose to incur related to my volunteer role with the Family Support Center will solely be my responsibility and may be considered a charitable tax deductible in-kind donation. I understand that I am responsible for keeping my own records for tax purposes and obtaining my own tax advice.
+- I understand that I may be reimbursed for expenses or travel mileage I incur as a volunteer if I receive pre-authorization to incur the expense from authorized FSCSS personnel. If I do not receive pre-authorization, expenses I choose to incur related to my volunteer role with the Family Support Center will solely be my responsibility and may be considered a charitable tax deductible in-kind donation. I understand that I am responsible for keeping my own records for tax purposes and obtaining my own tax advice.
 
 - I understand that I may not volunteer for FSCSS if I have been convicted of certain crimes or have pending criminal charges. I understand that if I am arrested or charged with any crime during my tenure as a volunteer, I must report it to FSCSS personnel within 48 hours of the arrest or filing of any information charging me with any criminal offense. 
 
@@ -78,13 +78,13 @@ I agree to maintain client confidentiality at all times. All information, writte
 
 - I understand that I may or may not give permission to have my photo taken and used for publicity purposes by FSCSS. I also understand that I may submit written work to be posted on the volunteer blog.
 
-- I agree to abide by my scope of work responsibilities based on my position description that has been provided to me. I will participate in any necessary or appropriate trainings to fulfill my job duties.
+- I agree to abide by my scope of work responsibilities based on my position description that has been provided to me. I will participate in any necessary or appropriate training to fulfill my job duties.
 
 - I understand that my volunteer relationship with FSCSS may be terminated by me or FSCSS at any time for any reason.
 
 # Mandated Reporter Acknowledgement
 
-I understand the requirements of Washington State Mandated Reporting. I agreed to report any suspected child abuse and/or neglect to DSHS and to the Family Support Center management as soon as I learn, suspect, or observe abuse/neglect.
+I understand the requirements of Washington State Mandated Reporting. I agree to report any suspected child abuse and/or neglect to DSHS and to the Family Support Center management as soon as I learn, suspect, or observe abuse/neglect.
 
 I understand that failure to make a report within 48 hours may result in my termination as a volunteer and may also result in legal action from the State of Washington. I vow to do everything I can to prevent child abuse and neglect and to keep kids safe.
 

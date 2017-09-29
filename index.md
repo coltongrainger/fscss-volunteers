@@ -33,7 +33,7 @@ We will also schedule volunteers for special events that support families and ch
   * We run background checks.
 2. Attend a volunteer orientation with *[Keiya Johnson](mailto:keiyaj@fscss.org)* or *[Colton Grainger](mailto:coltong@fscss.org)*.
   * We discuss [mandatory reporting](https://prezi.com/piml7bn_b0au/mandatory-reporter-presentation/) and client confidentiality.
-  * Here are the [agreements]({{ "/agreements" | site.url }}).
+  * Here are the [agreements](https://goo.gl/forms/wTSzSpJm7JfKDkqA3).
 3. Come for a training shift at Pear Blossom Place.
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).

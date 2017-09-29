@@ -17,7 +17,7 @@ From Trish Gregory:
 
 > She was a very caring and thoughtful person who looked out for others and shared what little she had.  On one occasion we came to work to find that she had given up her entry way space to a family with two kids; placed herself along the outside perimeter and helping the family to line their sleeping spaces with suitcases to basically barricade the children on the inside near the door where they would feel safer.  
 
-Thoughts
+additional thoughts
 - access to preventative healthcare for homeless persons
 	- involves changing patient & provider dynamics
 - creating space for "personal stories"

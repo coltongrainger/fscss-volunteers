@@ -1,10 +1,12 @@
 ---
-title: supervision
+title: Supervision
 author: Colton Grainger
 created: 2017-09-29
 status: notes
 belief: possibly
 ---
+
+For supervision, here's an outline of projects that I'm working on.
 
 # Shelter Rules and Regulations
 
@@ -12,56 +14,54 @@ belief: possibly
 
 # Blog
 
-- to increase transparency
-	- to coordinate administrative responsibilities
+- increases transparency
+	- also to coordinate administrative responsibilities
 - success stories?
 	- what about tragedies?
-- economic concepts to incorperate into narratives
+- can we incorperate economic concepts into narratives
 > price elasticity of demand, supply and demand, Overton window (not econ), broken windows, ideological turning tests, make-work bias, ideas from thinking fast and slow (source: [Issa Rice](https://issarice.com/advice-for-young-people#other-ideasexpanding-your-imagination))
 - Keiya's observations on Olympia
 
 To-do:
 - define limits & scope
 - expectations for number & quality of posts
-- Natalie needs to review: to what extend?
+- Natalie needs to review: to what extent?
 
 # Recruitment
 
-- mission?
-> Today the emphasis is on keeping together families that would have been separated in the past. These families have complex needs, often involving some sort of child maltreatment, substance abuse, or children exhibiting oppositional behavior or deliquency in the home, school, and community[^crosson]. The goal of family preservation programs are to: allow children to remain safely [housed], maintain and strengthen family bonds, stabilize the crisis situation that precipitated any need for outside placement, increase the family's coping skills and competencies, and facilitate the family's use of appropriate and information helping resources.
+- What's our mission?
 - bifocal: either *for children* or *for families*
 	- what's the ideological motivation to donate time? service?
 	- preventing adverse childhood experiences?
 	- navigating competing obligations
+> Today the emphasis is on keeping together families that would have been separated in the past. These families have complex needs, often involving some sort of child maltreatment, substance abuse, or children exhibiting oppositional behavior or deliquency in the home, school, and community[^crosson]. The goal of family preservation programs are to: allow children to remain safely [housed], maintain and strengthen family bonds, stabilize the crisis situation that precipitated any need for outside placement, increase the family's coping skills and competencies, and facilitate the family's use of appropriate and information helping resources.
 - should our cause be prioritized? 
-	- long term successes? 
+	- examples of long term successes? 
 	- how are we addressing systematic barriers?
-	- hyper-local? does this change ethical obligation?
-	- what about individual "turning points?"
+	- hyper-local? does this change ethical obligations?
+	- what about individual "turning points"?
 - religious organizations
 	- unitarian
 	- catholic
 		- yearly collection plate?
-		- again, what's to say that the 10% is *effectively spend*?
-	- temples
+		- how would 10% be *effectively spent*?
 	- capitol christian
 	- lutheran
 	- episcopal
 - public institutions
 	- L&I is canvassed
+		- guidelines for canvassing?
+		- discrete b/w posters 
 	- commerce
 	- health department
 
 # Outreach
+
 - Fylers
 	- Timberland Region Libraries
 	- Co-ops
 	- TESC, St. Martin's, SPSCC
 	- *bilingual*
-- Educational Component
-	- "preventing adverse childhood experiences"
-	- trauma informed?
-	- family strengthening
 - online
 	- stable URL: fscss.org/volunteer
 	- blog for posts? projects?
@@ -83,36 +83,25 @@ To-do:
 # Education
 
 - Boundaries
-	- asap
-	- AJ's notes
-	- we stopped logging disputes
+	- see AJ's notes
+	- we need to log disputes
 	- weekends aren't "field days"
+- "preventing adverse childhood experiences"
 
 # Technology
-Can the shelter intranet be improved? I asked Leila about this. Do we need to create log-ins?
 
+- Can the shelter intranet be improved? 
+	- I asked Leila about this. Do we need to create log-ins?
+- mini-projects
+	- teaching git for blog posts
+	- writing for prevention
 
-
-
-## Screen and Match
-- application
-	- revised application 
-		- volunteer
-		- work-study
-		- intern
-	- 48 hours to review & contact
-- orientation
-	- group discussion w/ outline
-		- child abuse
-		- ACEs
-		- FSCSS background
-		- shelter operation
-	- tour of facility
-	- mandatory reporter training at home
+# Screen and Match
+I revised our application for volunteers, work-studies, and interns. I need 48 business hours to review & contact the applicant. I meet prospective volunteers in person. Our discussion follows an [outline](volunteer.fscss.org/responsibilities) of responsibilities (which is a condensed list of duties). 
+- could add FSCSS background
 - background checks
-	- I have no WATCH account.
 - volunteer records
-	- pdf agreement forms 
+	- agreement forms 
 	- pdf background checks
 	- saved to google drive?
 	- scanning & archiving '12--'17
@@ -144,6 +133,9 @@ Can the shelter intranet be improved? I asked Leila about this. Do we need to cr
 - continuing education
 	- CPR class?
 	- consent workshops
+- snacks!
+	- pretzels
+	- popcorn
 
 ## Monitor and Evaluate
 - reviewing & responding to comments
@@ -162,15 +154,67 @@ Can the shelter intranet be improved? I asked Leila about this. Do we need to cr
 - annual holiday adoption Program
 	- families at Pear Blossom Place 
 	- individuals and businesses
-- resource​ development​ plan​ 
-	- in-kind​ resources
-		- donation lists
-		- budgeting current supplies
-		- structural improvements
-	- grants​ and​ foundation support
-		- deadlines,​ 
-		- requirements,​ 
-		- contact​ information​
-		- proposals
+- soliciting donations
+	- do we have an efficient organization?
+	- how transparent is our cost structure?
+	- more likely to donate if information is openly shared
+- in-kind resources
+	- efficient distribution?
+	- turning over the donation room
+	- ecological responsibility (sorting)
+
+# Network
+
+- Timberland Reional Library
+	- to host quarterly volunteer education?
+	- reading hour
+- Mystical Cupcakes
+	- has Shilo followed up?
+- Sheriff's Department
+	- monthly birthday parties
+- SSRF
+	- I meet with Hanna Hillig from SSRF.
+	- I would like to begin either a "adopt a day care" or "read with me" program at shelter. (read2me@nthurston.k12.wa.us) 
+	- benefits
+		- Hanna would have a chance to engage in her professional capacity, 
+		- at least 5 children would be exposed to additional vocabulary, 
+		- there's the possibility of monthly recurring reading hours between SSRF and TRL, 
+		- volunteer involvement 
+	- downsides
+		- transportation costs for Hanna, 
+		- risk that few kiddos are in the building, 
+		- age-inappropriate books, 
+		- unwanted donations.
+- Ethiopian Community in Seattle
+	- case management
+	- not a resettlment agency
+- Seattle Children's
+	- vision
+		- preventative healthcare
+		- neighborhood centers
+- Thurston County Food Bank
+	- whole wheat pasta
+	- pasta sauces
+	- nut/seed butters
+	- fruits w/o syrup
+	- grains
+		- brown rice
+		- quinoa
+		- cereal
+		- rolled oats
+		- torillas
+	- canned soups
+	- canned veggies
+	- lean proteins
+	- tuna
+	- salmon
+		- sardines
+		- beans
+		- lentils
+- GRuB
+- *Olympia Family Theater*
+	- 10/5 pay what you can
+	- http://olyft.org/dr-seuss-the-cat-in-the-hat/
+	- improv at the shelter?
 
 [^crosson]: Crosson-Tower, C. (2005). *Exploring child welfare: A practice perspective* (5th ed.). Boston: Allyn & Bacon.

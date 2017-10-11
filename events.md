@@ -34,7 +34,8 @@ Thu Nov 30	 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
 Sun Dec 10	 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
 Mon Dec 18	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 
-Fall 2017 
+# Miscellaneous
+
 - Ashtanga Yoga
 	- Bhanda Room 
 	- 119 1/2 Capitol Way N

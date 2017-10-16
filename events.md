@@ -38,11 +38,11 @@ Mon Dec 18	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 
 # Winter 2017--2018
 
-*We have special need for volunteers throughout the Holidays. *
+*We have special need for volunteers throughout the Holidays.*
 
  date | time | description | location 
 --- | --- | --- | ---
-Thu Dec 21 | 9:00am | Gift Distribution, Natalie Skovran | FSC Downtown, 201 Capitol Way N
+<nobr> Thu Dec 21 <\nobr> | 9:00am | Gift Distribution, Natalie Skovran | FSC Downtown, 201 Capitol Way N
 Sun Dec 24 | 5:00pm | Christmas Eve | Pear Blossom Place
 Mon Dec 25 | 5:00pm | Christmas | Pear Blossom Place
 Tue Dec 26 | 5:00pm | Christmas Clean-up | Pear Blossom Place

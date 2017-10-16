@@ -5,11 +5,12 @@ order: 1
 # created: 2017-08-21
 # date: 2017-09-25
 ---
-# Volunteer Workshop at Gallery Boom!
-Keiya Johnson and Colton Grainger are hosting a workshop at Gallery Boom!
+# Workshop at Gallery Boom!
+Keiya and Colton are hosting a workshop at Gallery Boom!
 - Wed Oct 18 4:45pm -- 6:15pm
 - 520 Adams St SE, Olympia, WA 98501
-- To discuss cold weather and shelter protocol.
+- to discuss protocol at shelter, trauma-informed service
+- open to the public
 
 # Opportunities
 

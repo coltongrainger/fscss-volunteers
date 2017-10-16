@@ -42,9 +42,9 @@ Mon Dec 18	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 
  date | time | description | location 
 --- | --- | --- | ---
-<nobr> Thu Dec 21 <\nobr> | 9:00am | Gift Distribution, Natalie Skovran | FSC Downtown, 201 Capitol Way N
+<nobr> Thu Dec 21 </nobr> | 9:00am | Gift Distribution, Natalie Skovran | FSC Downtown, 201 Capitol Way N
 Sun Dec 24 | 5:00pm | Christmas Eve | Pear Blossom Place
-Mon Dec 25 | 5:00pm | Christmas | Pear Blossom Place
+<nobr>Mon Dec 25 </nobr> | 5:00pm | Christmas | Pear Blossom Place
 Tue Dec 26 | 5:00pm | Christmas Clean-up | Pear Blossom Place
 Sun Dec 31 | 5:00pm | New Year's Eve | Pear Blossom Place
 Mon Jan 1  | 5:00pm | New Year's Day | Pear Blossom Place

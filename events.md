@@ -24,9 +24,9 @@ Tue Oct 24	 | 5:00 pm | Olympia School Distric Fair, Colton Grainger | Capitol H
 Sat Oct 28	 | 12:00pm | 37th Annual Harvest Festival, Colton Grainger | The Evergreen State College
 Sat Oct 28 | 6:00pm | Halloween party, Desi Thorn | Pear Blossom Place
 Sun Oct 29	 | 12:00pm | Crafts, Karen Hall | Pear Blossom Place
-Mon Oct 30	 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
 Mon Oct 30       | 5:45pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 Thu Nov 2	 | 2:00pm| Darkness to Light: Preventing Child Abuse, Linda Sisson | Olympia Timberland Library
+Mon Nov 6        | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
 Wed Nov 8	 | tbd | TESC career fair, Colton Grainger | The Evergreen State College
 Wed Nov 15	 | tbd | Careers for Common Good, Colton Grainger | Saint Martin's University
 Thu Nov 23 | 5:00pm | Thanksgiving, Colton Grainger | Pear Blossom Place

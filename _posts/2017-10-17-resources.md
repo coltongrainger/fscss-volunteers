@@ -3,6 +3,7 @@ title: Resources during a shift
 author: Colton Grainger
 created: 2017-10-17
 belief: plausible
+tags: orientation
 ---
 
 To compile all the disparate tips for talking on the phone during a shelter shift. I'm documenting the instructions from previous staff members and removing redunant information. 

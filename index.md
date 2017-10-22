@@ -5,13 +5,6 @@ order: 1
 # created: 2017-08-21
 # date: 2017-09-25
 ---
-# Workshop at Gallery Boom!
-Keiya and Colton are hosting a workshop at Gallery Boom!
-- Wed Oct 18 4:45pm -- 6:15pm
-- 520 Adams St SE, Olympia, WA 98501
-- to discuss protocol at shelter, trauma-informed service
-- open to the public
-
 # Opportunities
 
 Volunteers keep our family shelter, Pear Blossom Place, open 24 hours a day. We schedule at least 2 volunteers to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.

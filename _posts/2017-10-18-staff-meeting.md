@@ -3,14 +3,16 @@ title: All Staff Meeting
 author: Colton Grainger
 created: 2017-10-18
 belief: likely
-status: minutes
+tags: [rough-notes]
 ---
 
-# Volunteer Appreciation
+Minutes from FSCSS's all staff meetings.
+
+## Volunteer Appreciation
 
 - October: Deborah Bordelon
 
-# Meeting Reports
+## Meeting Reports
 
 - Women's health
 	- Focus: sexual assualts in schools
@@ -32,7 +34,7 @@ status: minutes
 	- not understood by everyone in the room
 	- Doris reminds clients to print evidence rather than forfeit their phone.
 
-# HFS/PBP
+## HFS/PBP
 
 - Thanks for signing up for holiday shifts
 	- Christmas is still open
@@ -62,7 +64,7 @@ status: minutes
 	- update case notes
 - On call schedule has 1 empty week; email Natalie to swap/sign up
 
-# Apricot
+## Apricot
 - Rachel Scharber is point person
 - updated options for gender
 - updated income verification
@@ -80,7 +82,7 @@ status: minutes
 - Mindy: Say a client comes in who's called, can we quickly transfer them to Apricot?
 	- Natalie: No. Search both places, potentially.
 
-# Family Justice Center
+## Family Justice Center
 - moves upstairs, more space
 	- contact sheet to be updated
 - chance to meet 11/3 with court staff (?)
@@ -122,7 +124,7 @@ status: minutes
  		- case staffing meetings
  		- volunteers
 
-# Admin
+## Admin
 
 - Fall Bfast 6:30am 11/1/17
 	- registration online
@@ -135,7 +137,7 @@ status: minutes
 - 11/8 10am--1pm kids activity
 	- Jorey to attend
 
-# Family Resources Services
+## Family Resources Services
 - 2nd interviews for CM
 - references could take time
 - ideal to start prior to 11/10/17
@@ -146,7 +148,7 @@ status: minutes
 	- first time homebuyers
 	- lengthy online sesssions
 
-# Questions?
+## Questions?
 
 - Doris: how do I collaborate with SideWalk
 	- spoke with Kyle regarding DV clients

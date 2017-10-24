@@ -5,6 +5,13 @@ order: 1
 # created: 2017-08-21
 # date: 2017-09-25
 ---
+
+# Announcements
+
+- Karen Hall is building edible haunted houses with the kiddos 12pm--2pm, Sun Oct 29.
+- Linda Sission will run a training in the [prevention of child sexual abuse](https://www.d2l.org/education/5-steps/) 2pm--5pm, Thu Nov 2. ([RSVP.](https://goo.gl/forms/Ynu7GsvnvsthtgYp1))
+- Keiya and Colton will host a 2nd meeting to discuss cold weather *prior* to Nov 15. ([When are you available?](https://goo.gl/forms/tEDm9KM2Z5CIA50F3))
+
 # Opportunities
 
 Volunteers keep our family shelter, Pear Blossom Place, open 24 hours a day. We schedule at least 2 volunteers to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.

@@ -22,7 +22,6 @@ Wed Oct 18	| 4:30pm | Cold Weather Workshop, Keiya Johnson | Gallery Boom!
 Mon Oct 23	| 5:30pm | North Thurston Public Schools Fair, Colton Grainger | Timberline High School
 Tue Oct 24	 | 5:00 pm | Olympia School Distric Fair, Colton Grainger | Capitol High School
 Sat Oct 28	 | 12:00pm | 37th Annual Harvest Festival, Colton Grainger | The Evergreen State College
-Sat Oct 28 | 6:00pm | Halloween party, Desi Thorn | Pear Blossom Place
 Sun Oct 29	 | 12:00pm | Crafts, Karen Hall | Pear Blossom Place
 Mon Oct 30       | 5:45pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 Thu Nov 2	 | 2:00pm| Darkness to Light: Preventing Child Abuse, Linda Sisson | Olympia Timberland Library

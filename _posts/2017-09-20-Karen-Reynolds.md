@@ -1,7 +1,7 @@
 ---
 title: Karen Reynolds
 author: Colton Grainger
-created: 2017-07-20
+created: 2017-09-20
 tags: [awards]
 ---
 

@@ -8,7 +8,14 @@ belief: possibly
 
 This is a living document for Colton's supervision.
 
-# Shelter Protocol 
+# To-do
+- static state shelter narrative
+	- records on individual clients?
+- backup list for winter volunteers
+- more communication with Keiya
+- explore emacs org mode
+- more workshops for volunteer retention
+- address child abuse/sexual abuse
 
 # Recruitment
 
@@ -22,6 +29,11 @@ How to rank family support in terms of [cause prioritization?](https://causeprio
 What about locality? Does proximity to shelter provide stronger imperative to volunteer? I think only so much as effort directed towards a community social support system is multiplied when focused locally. In other words, local volunteers have a comparative advantage to non-local (external) workers charged to "aid" and "reform" a community. 
 
 What about individual "turning points"? Persons in recovery from substance abuse (or from addiction in a more general sense) could be motivated to mentor or sponsor others in fulfillment of an obligation to return services rendered. I am personally most responsive to arguments that shelter creates the space for healing (which I take literally, thinking in terms of cognitive plasticity).
+
+# Outreach
+
+- religious organizations
+	- united churches?
 	- unitarian
 	- catholic
 		- yearly collection plate?
@@ -35,9 +47,6 @@ What about individual "turning points"? Persons in recovery from substance abuse
 		- discrete b/w posters 
 	- commerce
 	- health department
-
-# Outreach
-
 - Fylers
 	- Timberland Region Libraries
 	- Co-ops
@@ -45,21 +54,10 @@ What about individual "turning points"? Persons in recovery from substance abuse
 	- *bilingual*
 - online
 	- stable URL: fscss.org/volunteer
-	- blog for posts? projects?
-	- creating *transparency*
-	- 5 positions recruited
-		- Daytime, Greeters, Hosts
-		- Donation Room
-		- Special Ecents
 	- modify descriptions on 3rd party sites
 		- volunteermatch
 		- volunteer thurston
 		- evergreen CODA
-
-
-# Recognition
-
-- GoodTherapy
 
 # Education
 
@@ -100,7 +98,7 @@ I revised our application for volunteers, work-studies, and interns. I need 48 b
 		- on-site orientation
 		- 1-time modified agreement
 
-## Train and Support
+# Train and Support
 - staff interactions w/ volunteers
     - *prefer* self-scheduled
     - goal: staff won't need to arrange
@@ -118,7 +116,7 @@ I revised our application for volunteers, work-studies, and interns. I need 48 b
 	- pretzels
 	- popcorn
 
-## Monitor and Evaluate
+# Monitor and Evaluate
 - reviewing & responding to comments
 	- blog posts
 	- comments on shelter website

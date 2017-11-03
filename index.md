@@ -6,13 +6,12 @@ order: 1
 # date: 2017-09-25
 ---
 
-# Announcements
+## Announcements
+- [Tue 11/7, 4:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=MWg1aTgycjE1ZG9tMjZsazAwdjJqZzFqc3UgY29sdG9uZ0Bmc2Nzcy5vcmc&tmsrc=coltong%40fscss.org) at the main FSC office, Keiya Johnson and I discuss changes during the cold weather season (which begins on 11/15/17).
+- Fri 11/10 we need help for morning (8am) and afternoon (12:30pm) day shift.
+- [Thu 11/16, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=Y3BqMzBkajQ2aGozZWI5cGNrcGowYjlrNmhnbTRiOXA2Z3NqZWJiMzZrcWo2ZTloY2RpbWFwajM2NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org)  at the Olympia Library, Linda Sisson will run a training on prevention of sexual abuse of children.
 
-- Karen Hall is building edible haunted houses with the kiddos 12pm--2pm, Sun Oct 29.
-- Linda Sission will run a training in the [prevention of child sexual abuse](https://www.d2l.org/education/5-steps/) 2pm--5pm, Thu Nov 2. ([RSVP.](https://goo.gl/forms/Ynu7GsvnvsthtgYp1))
-- Keiya and Colton will host a 2nd meeting to discuss cold weather *prior* to Nov 15. ([When are you available?](https://goo.gl/forms/tEDm9KM2Z5CIA50F3))
-
-# Opportunities
+## Opportunities
 
 Volunteers keep our family shelter, Pear Blossom Place, open 24 hours a day. We schedule at least 2 volunteers to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.
 
@@ -32,7 +31,7 @@ We will also schedule volunteers for [special events](/events.html) that support
 | Donation Room | 8:00am--5:00pm | (walk in on weekdays) |
 | Special Events | as scheduled | ([contact me](mailto:coltong@fscss.org)) |
 
-# Application Process
+## Application Process
 
 1. Complete the [application](https://www.volgistics.com/ex/portal.dll/ap?ap=1953929563).
   * We review the application and get back to you in 48 hours.
@@ -44,9 +43,8 @@ We will also schedule volunteers for [special events](/events.html) that support
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
 
-# Contact
+## Contact
 
 Colton Grainger | Community Engagement Specialist <br>
 Family Support Center | 837 7th Ave SE Olympia, WA <br>
 [coltong@fscss.org](mailto:coltong@fscss.org) |  360.628.7343 ext. 306 <br>
-

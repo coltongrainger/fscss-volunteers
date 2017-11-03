@@ -6,7 +6,7 @@ order: 3
 
 # Recent Posts
 
-By sharing our experience at shelter, we can create a more transparent environment for [effective altruism](http://careyryan.com/files/EA_Handbook.pdf). 
+By sharing our experience at shelter, we can create a more transparent environment for [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism). 
 
 <hr>
 

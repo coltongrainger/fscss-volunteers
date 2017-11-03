@@ -1,7 +1,7 @@
 ---
 title: All Staff Meeting
 author: Colton Grainger
-created: 2017-10-18
+date: 2017-10-18
 belief: likely
 tags: [rough-notes]
 ---

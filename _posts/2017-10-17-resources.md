@@ -1,7 +1,7 @@
 ---
 title: Resources during a shift
 author: Colton Grainger
-created: 2017-10-17
+date: 2017-10-17
 belief: plausible
 tags: orientation
 ---

@@ -1,7 +1,7 @@
 ---
 title: Deborah Bordelon
 author: Colton Grainger
-created: 2017-10-16
+date: 2017-10-16
 tags: [awards]
 ---
 

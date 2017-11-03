@@ -13,7 +13,7 @@ By sharing our experience at shelter, we can create a more transparent environme
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>, <i>{{ post.created | date_to_string }}</i>
+      <a href="{{ post.url }}">{{ post.title }}</a>, <i>{{ post.date | date_to_string }}</i>
       {{ post.excerpt }}
     </li>
   {% endfor %}

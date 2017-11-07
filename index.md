@@ -11,6 +11,17 @@ order: 1
 - Fri 11/10 we need help for morning (8am) and afternoon (12:30pm) day shift.
 - [Thu 11/16, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=Y3BqMzBkajQ2aGozZWI5cGNrcGowYjlrNmhnbTRiOXA2Z3NqZWJiMzZrcWo2ZTloY2RpbWFwajM2NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org)  at the Olympia Library, Linda Sisson will run a training on prevention of sexual abuse of children.
 
+## October 2017 Summary
+
+We had outstanding help from volunteers in October. We hosted 5 events (going to see *Cat in the Hat*, fall crafts, a reading hour with the librarian, and a workshop for volunteers). Here's the breakdown for October's hours at Pear Blossom Place.
+
+|Assignment | Hours | Number of Volunteers |
+| ---| ---:|---:|
+|Daytime| 120.00 | 15 |
+|Greeter| 170.25 | 25 |
+| Overnight Host | 757.00 | 21|
+| **Total** | **1047.25** | **51** |
+
 ## Opportunities
 
 Volunteers keep our family shelter, Pear Blossom Place, open 24 hours a day. We schedule at least 2 volunteers to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.
@@ -29,7 +40,7 @@ We will also schedule volunteers for [special events](/events.html) that support
 | **Downtown Office** |   |   |
 |---|---|---|
 | Donation Room | 8:00am--5:00pm | (walk in on weekdays) |
-| Special Events | as scheduled | ([contact me](mailto:coltong@fscss.org)) |
+| Special Events | as scheduled | ([contact us](mailto:coltong@fscss.org)) |
 
 ## Application Process
 

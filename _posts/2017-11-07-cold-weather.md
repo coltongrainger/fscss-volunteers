@@ -5,10 +5,9 @@ date: 2017-11-07
 status: minutes
 belief: somewhat
 ---
+*If you take away one piece of information from these minutes: Volunteers are not expected to stay up all night when we open the building for cold weather shelter.*
 
 ## Cold Weather Shelter
-
-*If you take away one piece of information from these minutes: Volunteers are not expected to stay up on night when we open the building for cold weather shelter.*
 
 On nights where the temp drops belows 36 deg F, the Family Support Center of South Sound (FSCSS) opens Pear Blossom Place (PBP) as an emergency shelter from 7pm--7am. It's possible that Thurston county may approve funding for a cold weather season (11/15/17--04/30/18), in which case PBP will be open every night for emergency shelter. 
 

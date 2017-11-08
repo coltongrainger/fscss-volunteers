@@ -3,7 +3,7 @@ title: Cold Weather Meeting
 author: Colton Grainger
 date: 2017-11-07
 status: minutes
-belief: somewhat
+belief: likely
 ---
 *If you take away one piece of information from these minutes: Volunteers are not expected to stay up all night when we open the building for cold weather shelter.*
 

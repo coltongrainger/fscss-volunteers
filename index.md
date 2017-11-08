@@ -7,9 +7,8 @@ order: 1
 ---
 
 ## Announcements
-- [Tue 11/7, 4:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=MWg1aTgycjE1ZG9tMjZsazAwdjJqZzFqc3UgY29sdG9uZ0Bmc2Nzcy5vcmc&tmsrc=coltong%40fscss.org) at the main FSC office, Keiya Johnson and I discuss changes during the cold weather season (which begins on 11/15/17).
-- Fri 11/10 we need help for morning (8am) and afternoon (12:30pm) day shift.
-- [Thu 11/16, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=Y3BqMzBkajQ2aGozZWI5cGNrcGowYjlrNmhnbTRiOXA2Z3NqZWJiMzZrcWo2ZTloY2RpbWFwajM2NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org)  at the Olympia Library, Linda Sisson will run a training on prevention of sexual abuse of children.
+- Meeting minutes on [Cold Weather Shelter](/cold-weather).
+- [Thu 11/16, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=Y3BqMzBkajQ2aGozZWI5cGNrcGowYjlrNmhnbTRiOXA2Z3NqZWJiMzZrcWo2ZTloY2RpbWFwajM2NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org)  at the Olympia Library, Linda Sisson will run the first part of training on prevention of sexual abuse of children.
 
 ## October 2017 Summary
 

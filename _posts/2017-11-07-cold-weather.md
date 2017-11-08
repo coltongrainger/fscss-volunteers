@@ -1,4 +1,4 @@
-.---
+---
 title: Cold Weather Meeting
 author: Colton Grainger
 date: 2017-11-07

@@ -9,10 +9,10 @@ belief: likely
 
 ## Cold Weather Shelter
 
-On nights where the temp drops belows 36 deg F, the Family Support Center of South Sound (FSCSS) opens Pear Blossom Place (PBP) as an emergency shelter from 7pm--7am. It's possible that Thurston county may approve funding for a cold weather season (11/15/17--04/30/18), in which case PBP will be open every night for emergency shelter. 
+Thurston County approved funding for the Family Support Center to open Pear Blossom Place (PBP) as an emergency shelter from 7pm--7am nightly 11/15/17--04/30/18.
 
 ### Building capacity is 70 people.
-The fire marshall has set the Smith building's (1st floor) capacity at 70 persons. With 37 long-term residents, 2 volunteers, and 1 staff person, we have room for 30 extra people. First come, first serve.
+The fire marshall has set the Smith building's (1st floor) capacity at 70 persons. With 36 long-term residents, 2 volunteers, and 1 staff person, we have room for 31 extra people. First come, first serve.
 
 ### Hours are 7pm--7am.
 Cold weather shelter runs from 7pm to 7am, with FSCSS paid staff arriving at 6:45pm to screen people for entry. Volunteers do not need to let in cold weather clients until a few minutes before 7pm. Instead, encourage families to visit the Salvation Army for dinner, then return at 7pm. (TODO: create map of heated buildings open to the public.)

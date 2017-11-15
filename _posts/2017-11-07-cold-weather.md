@@ -9,33 +9,34 @@ belief: likely
 
 ## Cold Weather Shelter
 
-Thurston County approved funding for the Family Support Center to open Pear Blossom Place (PBP) as an emergency shelter from 7pm--7am nightly 11/15/17--04/30/18.
+Thurston County funds the Cold Weather Season in our community, including additional emergency family shelter beds at Pear Blossom Place. This year we have moved to a cold weather “season” as opposed to a night to night determination of availability based on temperature. The cold weather season operates from November 1 to April 30, and Pear Blossom Place opens additional beds from 7:00PM to 9:00AM every day.
 
 ### Building capacity is 70 people.
-The fire marshall has set the Smith building's (1st floor) capacity at 70 persons. With 36 long-term residents, 2 volunteers, and 1 staff person, we have room for 31 extra people. First come, first serve.
+The Family Support Center is contracted to provide 20 additional beds every night during the cold weather season. However, as a family support organization, and these beds being a life saving measure, it is highly unlikely we will ever turn someone away from cold weather shelter. Our maximum building capacity for the 1st floor is 70 people, allowing for additional 31 spots being available. In the event more than 25 people show up for cold weather shelter, the on-call staff person will be contacted to identify a plan to shelter additional people as we approach fire code (such as hotel stays, etc.).
 
 ### Hours are 7pm--7am.
-Cold weather shelter runs from 7pm to 7am, with FSCSS paid staff arriving at 6:45pm to screen people for entry. Volunteers do not need to let in cold weather clients until a few minutes before 7pm. Instead, encourage families to visit the Salvation Army for dinner, then return at 7pm. (TODO: create map of heated buildings open to the public.)
+
+Cold weather shelter runs from 7pm to 9am, with FSCSS paid staff arriving at 7:00PM to get set up for the evening.  Our families staying at cold weather know the hours are 7:00PM to 9:00AM, and occasionally may arrive a few minutes early as we enter really cold weather. Volunteers are not expected to manage cold weather families, and the staff person who arrives at 7:00 can get everyone set up. Volunteer can encourage families to visit the Salvation Army for dinner, then return at 7pm. (TODO: create map of heated buildings open to the public.)
 
 ### Screened entry: check if registered sex offender.
-The *first* time someone comes for cold weather shelter, we need to run their first/last name through the [sex offender registry](https://www.nsopw.gov/). Volunteers are welcome to search the sex offender registry, especially if they are letting someone in before FSCSS staff arrive. *Registered Sex Offenders may not stay on property.* FSCSS staff will complete [coordinated entry](https://deptofcommerce.app.box.com/s/8nt4mgmr3izkj9juizisji9w6igdgjd6) paperwork for enrollment in the [Homeless Management Information System](http://www.commerce.wa.gov/serving-communities/homelessness/hmis/), which also connects the family in the to additional social services. 
+The *first* time someone comes for cold weather shelter, we need to run their first/last name through the [sex offender registry](https://www.nsopw.gov/). Volunteers are welcome to search the sex offender registry, especially if they are letting someone in before FSCSS staff arrive. *Registered Sex Offenders may not stay on property.*
 
 ### Sleeping Arrangements
-We keep additional mats, blankets, and pillows in the bike closet. Note: 30 people require lots of room: both the the bike closet and the living room will be crowded. FSCSS staff will move furniture around 8:45pm to make room on the floor to sleep. The lights do not turn off (by order of the fire marshal).
+We keep additional mats, blankets, and pillows in the bike closet. Note: 30 people require lots of room: both the bike closet and the living room will be crowded. FSCSS staff will move furniture around 8:45pm to make room on the floor to sleep. The lights do not turn off in the common room.  
 
 We ask long-term shelter residents to retire to their rooms after 9pm. (Note: this is not a hard rule. It's more important that the kids go to their rooms at 9pm than their parents.) We want to block off time for cold weather families to sleep.
 
 ### No personal belongings during daytime.
-We do not allow cold weather families to leave belongings in the shelter during the day. (Food left behind is usually eaten. Belongings can be stolen. As well, we don't have the capacity to hold either food or belongings.) 
+We unfortunately do not heave the storage space to hold families items during the day, so we ask families to take their belongings with them.
 
-### No laundry or showers on site
-We do not permit cold weather families to do laundry, cook with the stove or oven, or shower. They may use the microwave to heat food. If someone's health is at risk (and at our discretion) families may shower or launder blankents and clothing.
+### No laundry or showers on site.
+Due to capacity, we unfortunately cannot provide shower or laundry services for families staying for cold weather. However, if a kiddo gets sick or a family only has soaking wet clothing then of course we can make an exception and offer a shower or laundry. Families may use the kitchen space in the common area, though we ask they clean up and do not keep any food in the cabinets/refrigerator as other families may eat it. 
 
-We provide shower vouchers for the [YMCA](https://www.google.com/maps/place/South+Sound+YMCA+-+Downtown+YMCA/@47.0438296,-122.9686698,12z/data=!4m8!1m2!2m1!1sYMCA+olympia!3m4!1s0x5491751bc115f4a1:0x3399d2a90110a045!8m2!3d47.043851!4d-122.8986301) and the [Community Care Center](http://washington.providence.org/clinics/providence-community-care-center/) (families may also do laundry here). We keep vouchers in a silver file cabinet under the front desk.
+We provide shower vouchers for the [YMCA](https://www.google.com/maps/place/South+Sound+YMCA+-+Downtown+YMCA/@47.0438296,-122.9686698,12z/data=!4m8!1m2!2m1!1sYMCA+olympia!3m4!1s0x5491751bc115f4a1:0x3399d2a90110a045!8m2!3d47.043851!4d-122.8986301). We keep vouchers in a silver file cabinet under the front desk.
 
 ### Where to go during the day?
 
-At 7am (or 9am, depending on FSCSS staff discretion) we ask families to leave Pear Blossom Place. We can support families by referring them to these heated buildings during the day.
+At 9am we ask families to leave Pear Blossom Place. We can support families by referring them to these heated buildings during the day.
 
 - [The Union Gospel Mission](http://www.ougm.org/) ([map](https://www.google.com/maps/place/Olympia+Union+Gospel+Mission/@47.048138,-122.9023151,17z/data=!3m1!4b1!4m5!3m4!1s0x54917519a6847141:0xc6cc6eecf622d0c1!8m2!3d47.048138!4d-122.9001264))
 - [Community Care Center](http://washington.providence.org/clinics/providence-community-care-center/) ([map](https://www.google.com/maps/place/Providence+Community+Care+Center/@47.0457611,-122.8995449,17z/data=!3m1!4b1!4m5!3m4!1s0x54917519513c91dd:0xece682ae23c7efd1!8m2!3d47.0457611!4d-122.8995449))

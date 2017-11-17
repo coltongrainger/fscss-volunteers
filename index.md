@@ -8,18 +8,7 @@ order: 1
 
 ## Announcements
 - Meeting minutes on [Cold Weather Shelter](/cold-weather).
-- [Thu 11/16, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=Y3BqMzBkajQ2aGozZWI5cGNrcGowYjlrNmhnbTRiOXA2Z3NqZWJiMzZrcWo2ZTloY2RpbWFwajM2NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org)  at the Olympia Library, Linda Sisson will run the first part of training on prevention of sexual abuse of children.
-
-## October 2017 Summary
-
-We had outstanding help from volunteers in October. We hosted 5 events (going to see *Cat in the Hat*, fall crafts, a reading hour with the librarian, and a workshop for volunteers). Here's the breakdown for October's hours at Pear Blossom Place.
-
-|Assignment | Hours | Number of Volunteers |
-| ---| ---:|---:|
-|Daytime| 120.00 | 15 |
-|Greeter| 170.25 | 25 |
-| Overnight Host | 757.00 | 21|
-| **Total** | **1047.25** | **51** |
+- [Thu 11/30, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=YzVpNjRjMWdjbGgzOGI5aWNvczNnYjlrNm9vMzJiYjJjNHBqMGI5bjZnc2phY2I2YzRwMzBjMzU3NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org) at the Olympia Library, Linda Sisson will run the second part of training on prevention of sexual abuse of children.
 
 ## Opportunities
 
@@ -52,6 +41,17 @@ We will also schedule volunteers for [special events](/events.html) that support
 3. Come for a training shift at Pear Blossom Place.
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
+
+## October 2017 Summary
+
+We had outstanding help from volunteers in October. We hosted 5 events (going to see *Cat in the Hat*, fall crafts, a reading hour with the librarian, and a workshop for volunteers). Here's the breakdown for October's hours at Pear Blossom Place.
+
+|Assignment | Hours | Number of Volunteers |
+| ---| ---:|---:|
+|Daytime| 120.00 | 15 |
+|Greeter| 170.25 | 25 |
+| Overnight Host | 757.00 | 21|
+| **Total** | **1047.25** | **51** |
 
 ## Contact
 

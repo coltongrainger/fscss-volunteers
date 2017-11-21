@@ -30,7 +30,7 @@ Wed Nov 15	 | tbd | Careers for Common Good, Colton Grainger | Saint Martin's Un
 Thu Nov 23 | 5:00pm | Thanksgiving, Colton Grainger | Pear Blossom Place
 Fri Nov 24 | 5:00pm | Thanksgiving Leftovers, Colton Grainger | Pear Blossom Place
 <nobr> Mon Nov 27 </nobr>	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
-Thu Nov 30	 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
+Wed Nov 29 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
 Sun Dec 10	 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
 Mon Dec 11 	| 9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N
 Tue Dec 12	|9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N

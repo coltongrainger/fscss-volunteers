@@ -7,8 +7,9 @@ order: 1
 ---
 
 ## Announcements
-- Meeting minutes on [Cold Weather Shelter](/cold-weather).
+- Notes on [Cold Weather Shelter](/cold-weather).
 - [Thu 11/30, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=YzVpNjRjMWdjbGgzOGI5aWNvczNnYjlrNm9vMzJiYjJjNHBqMGI5bjZnc2phY2I2YzRwMzBjMzU3NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org) at the Olympia Library, Linda Sisson will run the second part of training on prevention of sexual abuse of children.
+- [Sat 12/2, 9:00am](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=MzJrZjVscDZpcnM1YTZtZzdubWIzZXBnNG0gY29sdG9uZ0Bmc2Nzcy5vcmc&tmsrc=coltong%40fscss.org) at the FSC main office, we are hosting [Help-Portrait](http://help-portrait.com/about/) for families to get festive holiday pictures.
 
 ## Opportunities
 

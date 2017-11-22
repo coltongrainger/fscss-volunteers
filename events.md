@@ -25,12 +25,13 @@ Sun Oct 29	 | 12:00pm | Crafts, Karen Hall | Pear Blossom Place
 Mon Oct 30       | 5:45pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 Thu Nov 2	 | 2:00pm| Volunteer Workshop, Colton Grainger | Olympia Timberland Library
 Mon Nov 6        | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
-Tue Nov 7 	| 4:30 pm | Cold Weather Workshop II, Colton Grainger | FSC Downtown, 201 Capitol Way N
-Wed Nov 15	 | tbd | Careers for Common Good, Colton Grainger | Saint Martin's University
+Tue Nov 7 	| 4:30pm | Cold Weather Workshop II, Colton Grainger | FSC Downtown, 201 Capitol Way N
+Thu Nov 16 | 3:30pm | Preventing Sexual Abuse Workshop, Linda Sisson | Olympia Timberland Library
 Thu Nov 23 | 5:00pm | Thanksgiving, Colton Grainger | Pear Blossom Place
 Fri Nov 24 | 5:00pm | Thanksgiving Leftovers, Colton Grainger | Pear Blossom Place
 <nobr> Mon Nov 27 </nobr>	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 Wed Nov 29 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
+Thu Nov 30 | 3:30pm | Preventing Sexual Abuse Workshop, Linda Sisson | Olympia Timberland Library
 Sat Dec 2 | 9:00am | HELP portraits, Whitney Trotta | FSC Downtown, 201 Capitol Way N
 Sun Dec 10	 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
 Mon Dec 11 	| 9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N

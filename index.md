@@ -52,7 +52,7 @@ We had outstanding help from volunteers in October. We hosted 5 events (going to
 |Daytime| 120.00 | 15 |
 |Greeter| 170.25 | 25 |
 | Overnight Host | 757.00 | 21|
-| **Total** | **1047.25** | **51** |
+| **Total** | **1047** | **51** |
 
 ## Contact
 

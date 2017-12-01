@@ -7,9 +7,9 @@ order: 1
 ---
 
 ## Announcements
-- [Tue 11/7, 4:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=MWg1aTgycjE1ZG9tMjZsazAwdjJqZzFqc3UgY29sdG9uZ0Bmc2Nzcy5vcmc&tmsrc=coltong%40fscss.org) at the main FSC office, Keiya Johnson and I discuss changes during the cold weather season (which begins on 11/15/17).
-- Fri 11/10 we need help for morning (8am) and afternoon (12:30pm) day shift.
-- [Thu 11/16, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=Y3BqMzBkajQ2aGozZWI5cGNrcGowYjlrNmhnbTRiOXA2Z3NqZWJiMzZrcWo2ZTloY2RpbWFwajM2NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org)  at the Olympia Library, Linda Sisson will run a training on prevention of sexual abuse of children.
+- Notes on [Cold Weather Shelter](/cold-weather).
+- [Thu 11/30, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=YzVpNjRjMWdjbGgzOGI5aWNvczNnYjlrNm9vMzJiYjJjNHBqMGI5bjZnc2phY2I2YzRwMzBjMzU3NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org) at the Olympia Library, Linda Sisson will run the second part of training on prevention of sexual abuse of children.
+- [Sat 12/2, 9:00am](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=MzJrZjVscDZpcnM1YTZtZzdubWIzZXBnNG0gY29sdG9uZ0Bmc2Nzcy5vcmc&tmsrc=coltong%40fscss.org) at the FSC main office, we are hosting [Help-Portrait](http://help-portrait.com/about/) for families to get festive holiday pictures.
 
 ## Opportunities
 
@@ -29,7 +29,7 @@ We will also schedule volunteers for [special events](/events.html) that support
 | **Downtown Office** |   |   |
 |---|---|---|
 | Donation Room | 8:00am--5:00pm | (walk in on weekdays) |
-| Special Events | as scheduled | ([contact me](mailto:coltong@fscss.org)) |
+| Special Events | as scheduled | ([contact us](mailto:coltong@fscss.org)) |
 
 ## Application Process
 
@@ -42,6 +42,17 @@ We will also schedule volunteers for [special events](/events.html) that support
 3. Come for a training shift at Pear Blossom Place.
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
+
+## October 2017 Summary
+
+We had outstanding help from volunteers in October. We hosted 5 events (going to see *Cat in the Hat*, fall crafts, a reading hour with the librarian, and a workshop for volunteers). Here's the breakdown for October's hours at Pear Blossom Place.
+
+|Assignment | Hours | Number of Volunteers |
+| ---| ---:|---:|
+|Daytime| 120.00 | 15 |
+|Greeter| 170.25 | 25 |
+| Overnight Host | 757.00 | 21|
+| **Total** | **1047** | **51** |
 
 ## Contact
 

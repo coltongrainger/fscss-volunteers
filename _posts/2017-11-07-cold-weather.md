@@ -14,7 +14,7 @@ Thurston County funds the Cold Weather Season in our community, including additi
 ### Building capacity is 70 people.
 The Family Support Center is contracted to provide 20 additional beds every night during the cold weather season. However, as a family support organization, and these beds being a life saving measure, it is highly unlikely we will ever turn someone away from cold weather shelter. Our maximum building capacity for the 1st floor is 70 people, allowing for additional 31 spots being available. In the event more than 25 people show up for cold weather shelter, the on-call staff person will be contacted to identify a plan to shelter additional people as we approach fire code (such as hotel stays, etc.).
 
-### Hours are 7pm--7am.
+### Hours are 7pm--9am.
 
 Cold weather shelter runs from 7pm to 9am, with FSCSS paid staff arriving at 7:00PM to get set up for the evening.  Our families staying at cold weather know the hours are 7:00PM to 9:00AM, and occasionally may arrive a few minutes early as we enter really cold weather. Volunteers are not expected to manage cold weather families, and the staff person who arrives at 7:00 can get everyone set up. Volunteer can encourage families to visit the Salvation Army for dinner, then return at 7pm. (TODO: create map of heated buildings open to the public.)
 

@@ -32,6 +32,8 @@ Thu Nov 23 | 5:00pm | Thanksgiving, Colton Grainger | Pear Blossom Place
 Fri Nov 24 | 5:00pm | Thanksgiving Leftovers, Colton Grainger | Pear Blossom Place
 <nobr> Mon Nov 27 </nobr>	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 Thu Nov 30	 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
+Fri Dec 1 | overnight | St. Martin's Urban Plunge | Pear Blossom Place
+Fri Dec 8 | 2:00pm | Holiday Crafts, Anke Matthews | Pear Blossom Place
 Sun Dec 10	 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
 Mon Dec 18	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 

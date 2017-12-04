@@ -8,7 +8,6 @@ order: 1
 
 ## Announcements
 - Notes on [Cold Weather Shelter](/cold-weather).
-- We are hiring a part-time [volunteer coordinator](/documents/20171204-coordinator-position.pdf).
 
 ## Opportunities
 
@@ -58,3 +57,5 @@ We had outstanding help from volunteers in October. We hosted 5 events (going to
 Colton Grainger | Community Engagement Specialist <br>
 Family Support Center | 837 7th Ave SE Olympia, WA <br>
 [coltong@fscss.org](mailto:coltong@fscss.org) |  360.628.7343 ext. 306 <br>
+
+Interested in working as a [volunteer coordinator](/documents/20171204-coordinator-position.pdf)?

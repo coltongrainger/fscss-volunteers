@@ -8,7 +8,7 @@ order: 1
 
 ## Announcements
 - Notes on [Cold Weather Shelter](/cold-weather).
-- We are hiring a part-time [volunteer coordinator](/documents/20171204-coordinator-description.pdf).
+- We are hiring a part-time [volunteer coordinator](/documents/20171204-coordinator-position.pdf).
 
 ## Opportunities
 

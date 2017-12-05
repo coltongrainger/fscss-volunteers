@@ -6,8 +6,16 @@ order: 1
 # date: 2017-09-25
 ---
 
-## Announcements
-- Notes on [Cold Weather Shelter](/cold-weather).
+## November 2017 Summary
+
+We hosted reading hour, a STEM science project, 2 workshops on the prevention of child sexual abuse. We also opened for our [Cold Weather Shelter](/cold-weather) season. 
+
+| Assignment | Hours | Volunteers |
+| ---| ---:|---:|
+|Daytime| 113 | 12 |
+|Greeter| 151 | 24 |
+| Overnight Host | 601 | 19 |
+| **Total** | **865** | **47** |
 
 ## Opportunities
 
@@ -40,17 +48,6 @@ We will also schedule volunteers for [special events](/events.html) that support
 3. Come for a training shift at Pear Blossom Place.
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
-
-## October 2017 Summary
-
-We had outstanding help from volunteers in October. We hosted 5 events (going to see *Cat in the Hat*, fall crafts, a reading hour with the librarian, and a workshop for volunteers). Here's the breakdown for October's hours at Pear Blossom Place.
-
-|Assignment | Hours | Number of Volunteers |
-| ---| ---:|---:|
-|Daytime| 120.00 | 15 |
-|Greeter| 170.25 | 25 |
-| Overnight Host | 757.00 | 21|
-| **Total** | **1047** | **51** |
 
 ## Contact
 

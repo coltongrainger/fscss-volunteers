@@ -6,10 +6,16 @@ order: 1
 # date: 2017-09-25
 ---
 
-## Announcements
-- Notes on [Cold Weather Shelter](/cold-weather).
-- [Thu 11/30, 3:30pm](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=YzVpNjRjMWdjbGgzOGI5aWNvczNnYjlrNm9vMzJiYjJjNHBqMGI5bjZnc2phY2I2YzRwMzBjMzU3NCBjb2x0b25nQGZzY3NzLm9yZw&tmsrc=coltong%40fscss.org) at the Olympia Library, Linda Sisson will run the second part of training on prevention of sexual abuse of children.
-- [Sat 12/2, 9:00am](https://calendar.google.com/calendar/hosted/fscss.org/event?action=TEMPLATE&tmeid=MzJrZjVscDZpcnM1YTZtZzdubWIzZXBnNG0gY29sdG9uZ0Bmc2Nzcy5vcmc&tmsrc=coltong%40fscss.org) at the FSC main office, we are hosting [Help-Portrait](http://help-portrait.com/about/) for families to get festive holiday pictures.
+## November 2017 Summary
+
+We hosted reading hour, a STEM science project, 2 workshops on the prevention of child sexual abuse. We also opened for our [Cold Weather Shelter](/cold-weather) season. 
+
+| Assignment | Hours | Volunteers |
+| ---| ---:|---:|
+|Daytime| 113 | 12 |
+|Greeter| 151 | 24 |
+| Overnight Host | 601 | 19 |
+| **Total** | **865** | **47** |
 
 ## Opportunities
 
@@ -43,19 +49,10 @@ We will also schedule volunteers for [special events](/events.html) that support
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
 
-## October 2017 Summary
-
-We had outstanding help from volunteers in October. We hosted 5 events (going to see *Cat in the Hat*, fall crafts, a reading hour with the librarian, and a workshop for volunteers). Here's the breakdown for October's hours at Pear Blossom Place.
-
-|Assignment | Hours | Number of Volunteers |
-| ---| ---:|---:|
-|Daytime| 120.00 | 15 |
-|Greeter| 170.25 | 25 |
-| Overnight Host | 757.00 | 21|
-| **Total** | **1047** | **51** |
-
 ## Contact
 
 Colton Grainger | Community Engagement Specialist <br>
 Family Support Center | 837 7th Ave SE Olympia, WA <br>
 [coltong@fscss.org](mailto:coltong@fscss.org) |  360.628.7343 ext. 306 <br>
+
+Interested in working as a [volunteer coordinator](/documents/20171204-coordinator-position.pdf)?

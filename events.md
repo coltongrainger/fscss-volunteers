@@ -18,14 +18,14 @@ date | time | description | location
 <nobr> Mon Sep 25 </nobr> | 6:00pm 	| Reading Hour, Mary Rulewicz | Pear Blossom Place
 Thu Oct 5  | 12:00pm  | Cat in the Hat, Colton Grainger | Olympia Family Theater
 Sun Oct 8  | 1:00pm 	| Crafts, Karen Hall | Pear Blossom Place
-Wed Oct 18	| 4:30pm | Cold Weather Workshop, Keiya Johnson | Gallery Boom! 
-Mon Oct 23	| 5:30pm | North Thurston Public Schools Fair, Colton Grainger | Timberline High School
-Tue Oct 24	 | 5:00 pm | Olympia School Distric Fair, Colton Grainger | Capitol High School
-Sun Oct 29	 | 12:00pm | Crafts, Karen Hall | Pear Blossom Place
-Mon Oct 30       | 5:45pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
-Thu Nov 2	 | 2:00pm| Volunteer Workshop, Colton Grainger | Olympia Timberland Library
-Mon Nov 6        | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
-Tue Nov 7 	| 4:30pm | Cold Weather Workshop II, Colton Grainger | FSC Downtown, 201 Capitol Way N
+Wed Oct 18 | 4:30pm | Cold Weather Workshop, Keiya Johnson | Gallery Boom! 
+Mon Oct 23 | 5:30pm | North Thurston Public Schools Fair, Colton Grainger | Timberline High School
+Tue Oct 24 | 5:00 pm | Olympia School Distric Fair, Colton Grainger | Capitol High School
+Sun Oct 29 | 12:00pm | Crafts, Karen Hall | Pear Blossom Place
+Mon Oct 30 | 5:45pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
+Thu Nov 2 | 2:00pm| Volunteer Workshop, Colton Grainger | Olympia Timberland Library
+Mon Nov 6 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
+Tue Nov 7 | 4:30pm | Cold Weather Workshop II, Colton Grainger | FSC Downtown, 201 Capitol Way N
 Thu Nov 16 | 3:30pm | Preventing Sexual Abuse Workshop, Linda Sisson | Olympia Timberland Library
 Thu Nov 23 | 5:00pm | Thanksgiving, Colton Grainger | Pear Blossom Place
 Fri Nov 24 | 5:00pm | Thanksgiving Leftovers, Colton Grainger | Pear Blossom Place
@@ -34,13 +34,9 @@ Thu Nov 30 | 3:30pm | Preventing Sexual Abuse Workshop, Linda Sisson | Olympia T
 Fri Dec 1 | overnight | St. Martin's Urban Plunge | Pear Blossom Place
 Sat Dec 2 | 9:00am | HELP portraits, Whitney Trotta | FSC Downtown, 201 Capitol Way N
 Fri Dec 8 | 2:00pm | Holiday Crafts, Anke Matthews | Pear Blossom Place
-Sun Dec 10	 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
-Mon Dec 11 	| 9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Tue Dec 12	|9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Wed Dec 13	| 9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Thu Dec 14	| 9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Fri Dec 15 	| 9:00am | Holiday Adoptions, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Mon Dec 18	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
+Sun Dec 10 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
+Mon Dec 18 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
+Wed Dec 20 | 9:00am | Gift Setup, Natalie Skovran | FSC Downtown, 201 Capitol Way N
 
 # Winter 2017--2018
 
@@ -48,7 +44,6 @@ Mon Dec 18	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
 
  date | time | description | location 
 --- | --- | --- | ---
-<nobr> Wed Dec 20 </nobr> | 9:00am | Gift Setup, Natalie Skovran | FSC Downtown, 201 Capitol Way N
 <nobr> Thu Dec 21 </nobr> | 9:00am | Gift Distribution, Natalie Skovran | FSC Downtown, 201 Capitol Way N
 Fri Dec 22 | 5:00pm | Cookies, MaryLou L. | Pear Blossom Place
 Sun Dec 24 | 5:00pm | Christmas Eve | Pear Blossom Place

@@ -35,8 +35,9 @@ Fri Dec 1 | overnight | St. Martin's Urban Plunge | Pear Blossom Place
 Sat Dec 2 | 9:00am | HELP portraits, Whitney Trotta | FSC Downtown, 201 Capitol Way N
 Fri Dec 8 | 2:00pm | Holiday Crafts, Anke Matthews | Pear Blossom Place
 Sun Dec 10 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
-Mon Dec 18 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
-Wed Dec 20 | 9:00am | Gift Setup, Natalie Skovran | FSC Downtown, 201 Capitol Way N
+Mon Dec 18 | daytime | Gift Setup, Whitney Trotta | FSC Downtown, 201 Capitol Way N
+Tue Dec 19 | daytime | Gift Setup, Whitney Trotta | FSC Downtown, 201 Capitol Way N
+Wed Dec 20 | daytime | Gift Setup, Whitney Trotta | FSC Downtown, 201 Capitol Way N
 
 # Winter 2017--2018
 
@@ -44,7 +45,6 @@ Wed Dec 20 | 9:00am | Gift Setup, Natalie Skovran | FSC Downtown, 201 Capitol Wa
 
  date | time | description | location 
 --- | --- | --- | ---
-<nobr> Thu Dec 21 </nobr> | 9:00am | Gift Distribution, Natalie Skovran | FSC Downtown, 201 Capitol Way N
 Fri Dec 22 | 5:00pm | Cookies, MaryLou L. | Pear Blossom Place
 Sun Dec 24 | 5:00pm | Christmas Eve | Pear Blossom Place
 <nobr>Mon Dec 25 </nobr> | 5:00pm | Christmas | Pear Blossom Place

@@ -1,14 +1,14 @@
 ---
-title: Resources during a shift
+title: Family Resources 
 author: Colton Grainger
 date: 2017-10-17
-belief: plausible
-tags: orientation
+modified: 2017-12-12
+belief: likely 
 ---
 
-To compile all the disparate tips for talking on the phone during a shelter shift. I'm documenting the instructions from previous staff members and removing redunant information. 
+To consolidate resources for volunteers working at shelter.
 
-# Answering the phone. 
+## Answering the phone. 
 
 Who is calling us?
 - Families looking for shelter
@@ -31,13 +31,7 @@ On nights when we don’t have shelter space:
 - Do you have anywhere else you can stay tonight?
 - Safe parking lots are often WalMart, churches, SafeWay, etc.
 
-# Family Strengthening Curriculum
-
-- a scripted training: https://www.cssp.org/reform/strengtheningfamilies/practice/body/Scripted-Curriculum-Overview.pdf
-- an overview of 5 proctective factors: https://www.cssp.org/young-children-their-families/strengtheningfamilies/about/protective-factors-framework
-- a self assesment for community based programs: https://www.cssp.org/reform/strengtheningfamilies/2014/COMMUNITY-BASED-PROGRAM-SELF-ASSESSMENT.pdf
-
-# Coordinated Entry Thurston County
+## Coordinated Entry Thurston County
 
 - Interfaith Works/Sidewalk (single men and women)
   - 1139 5th Ave SE; Olympia
@@ -51,3 +45,8 @@ On nights when we don’t have shelter space:
 - Community Action Council of Lewis/Mason/Thurston HEN Clients Only
   - 3020 Willamette Dre NE, Lacey
   - 360-438-1100
+
+## Interagency Referrals
+
+- [Dept of Social and Health Services](https://www.dshs.wa.gov/search/site/tanf), for TANF clients
+

@@ -6,6 +6,21 @@ order: 1
 # date: 2017-09-25
 ---
 
+## Announcements
+
+- [Thurston County Cold Weather Shelter Options](/documents/20171221-olympia-shelters.pdf). Please distribute.
+- [Thurston County Year Round Shelter Options](/documents/20171221-olympia-full-year-shelters.pdf). Organizations include 
+  - Family  Support  Center 
+  - Safe  Place
+  - Interfaith  Works     
+  - St.  Michael's &  Sacred Heart
+  - The  Salvation  Army  
+  - Union   Gospel   Mission
+  - Drexel  House  Shelter 
+  - Community   Youth   Services 
+  - Community   Care   Center      
+  - Lacey  Veteran  HUB
+
 ## November 2017 Summary
 
 We hosted reading hour, a STEM science project, 2 workshops on the prevention of child sexual abuse. We also opened for our [Cold Weather Shelter](/cold-weather) season. 

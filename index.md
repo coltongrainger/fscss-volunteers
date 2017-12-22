@@ -8,8 +8,9 @@ order: 1
 
 ## Announcements
 
-- [Thurston County Cold Weather Shelter Options](/documents/20171221-olympia-shelters.pdf). Please distribute.
-- [Thurston County Year Round Shelter Options](/documents/20171221-olympia-full-year-shelters.pdf). Organizations include 
+Where can one find shelter in Thurston County?
+- See [Cold Weather Options](/documents/20171221-olympia-shelters.pdf). Please distribute.
+- See also [Year Round Options](/documents/20171221-olympia-full-year-shelters.pdf). Organizations include 
   - Family  Support  Center 
   - Safe  Place
   - Interfaith  Works     

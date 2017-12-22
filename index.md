@@ -23,6 +23,7 @@ Where can one find shelter in Thurston County?
 - Community Youth Services (CYS), 360-918-7879
   - Young adults ages 18-24, all genders welcome.
   - [520 Pear St. SE, Olympia, WA 98501](https://www.google.com/maps/place/520+Pear+St+SE,+Olympia,+WA+98501/@47.0441562,-122.8930431,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751f953e2c63:0x201682d590dfb593!8m2!3d47.0441562!4d-122.8908544)
+
 See also [Year Round Day & Night Shelters](/documents/20171221-olympia-annual-shelters.pdf). 
 
 ## Opportunities

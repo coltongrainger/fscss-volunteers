@@ -1,8 +1,8 @@
 ---
-title: Agreements
+title: Legal 
 order: 2
 author: Colton Grainger
-created: 2017-08-21
+date: 2017-08-21
 ---
 
 These are the agreements that we ask our volunteers, interns, and work-studies to make. They are published here for transparency.

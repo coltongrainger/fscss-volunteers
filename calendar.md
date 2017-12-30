@@ -1,5 +1,5 @@
 ---
-title: Events 
+title: Calendar 
 author: Colton Grainger
 order: 4 
 # created: 2017-10-02 

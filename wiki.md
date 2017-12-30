@@ -1,5 +1,5 @@
 ---
-title: Resources 
+title: Wiki 
 author: Colton Grainger
 order: 3
 ---

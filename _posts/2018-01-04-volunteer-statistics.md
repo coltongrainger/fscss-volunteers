@@ -54,4 +54,3 @@ We recognize Deborah Bordelon as volunteer of the month. In addition to taking g
 ## September 2017
 
 We recognize Karen Reynolds as volunteer of the month. Karen worked backup for staff throughout the summer; after connecting to us through Goodwill's [Senior Community Service and Employment Program](http://www.goodwill.org/scsep/), Karen has been hired as a Head Start Teacher.
-w

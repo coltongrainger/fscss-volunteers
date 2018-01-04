@@ -2,8 +2,8 @@
 title: Service Tracking
 author: Colton Grainger
 date: 2017-10-24
-tags: orientation
-belief: likely
+tags:
+  - statistics
 ---
 
 I can vouch for accurate hours beginning 7/1/2016. Why not earlier? 

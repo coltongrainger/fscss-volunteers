@@ -1,14 +1,12 @@
 ---
-title: Overview
+title: Overview 
 author: Colton Grainger
 order: 1
 # date: 2017-08-21
 # modified: 2018-01-04
 ---
 
-## Announcements
-
-## Opportunities
+## About Volunteering 
 
 Volunteers keep our family shelter, Pear Blossom Place, open 24 hours a day. We schedule at least 2 volunteers to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.
 

@@ -1,12 +1,13 @@
 ---
-title: Family Resources 
+title: HOWTO: answer the phone 
 author: Colton Grainger
 date: 2017-10-17
 modified: 2017-12-12
-belief: likely 
+tags:
+  - orientation
 ---
 
-To consolidate resources for volunteers working at shelter.
+The phone at Pear Blossom Place is the 24/7 coordinated entry hotline for Thurston county. Here's advice for answering the phone. 
 
 ## Answering the phone. 
 
@@ -32,6 +33,8 @@ On nights when we don’t have shelter space:
 - Safe parking lots are often WalMart, churches, SafeWay, etc.
 
 ## Coordinated Entry Thurston County
+
+This is the general division of social service agencies that serve people experiencing homelessness.
 
 - Interfaith Works/Sidewalk (single men and women)
   - 1139 5th Ave SE; Olympia

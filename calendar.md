@@ -1,12 +1,12 @@
 ---
 title: Calendar 
 author: Colton Grainger
-order: 4 
+order: 2 
 ---
 
 In addition to regular volunteering on the [shelter schedule](https://www.volgistics.com/ex/portal.dll/?from=189830), we organize activities and special events. 
 
-Want to host an activity? Or to give a talk? [Let us know](mailto:coltong@fscss.org).  
+Want to host an activity? Or bring a group? [Let us know](mailto:coltong@fscss.org).  
 
 # Spring 2018
 

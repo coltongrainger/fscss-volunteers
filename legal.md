@@ -1,6 +1,6 @@
 ---
 title: Legal 
-order: 2
+order: 3
 author: Colton Grainger
 date: 2017-08-21
 ---

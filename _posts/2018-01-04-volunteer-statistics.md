@@ -6,7 +6,7 @@ modified: 2017-01-04
 status: log 
 ---
 
-How many volunteers helped last month? What sort of work did volunteers do? This page is a log of hours of service at shelter and significant voluneer events.
+How many volunteers helped last month? What sort of work did volunteers do? This page is a log of hours of service at shelter and significant events.
 
 ## December 2017
 

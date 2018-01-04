@@ -2,54 +2,33 @@
 title: Calendar 
 author: Colton Grainger
 order: 4 
-# created: 2017-10-02 
 ---
 
-- Events at Pear Blossom Place are open to all active volunteers.
-	- Please [self-schedule](https://www.volgistics.com/ex/portal.dll/?from=189830) or [email us](mailto:coltong@fscss.org).
-- All off-site events are open to members of the public.
-- Want to host an event? [Let us know](mailto:coltong@fscss.org).
+In addition to regular volunteering on the [shelter schedule](https://www.volgistics.com/ex/portal.dll/?from=189830), we organize activities and special events. 
 
-# Fall 2017
+Want to host an activity? Or to give a talk? [Let us know](mailto:coltong@fscss.org).  
 
-date | time | description | location 
+# Spring 2018
+
+day&nbsp;of&nbsp;event | time | description | location
 --- | --- | --- | ---
-<nobr> Sun Sep 17 </nobr> | 12:00pm  | Crafts, Karen Hall | Pear Blossom Place
-<nobr> Mon Sep 25 </nobr> | 6:00pm 	| Reading Hour, Mary Rulewicz | Pear Blossom Place
-Thu Oct 5  | 12:00pm  | Cat in the Hat, Colton Grainger | Olympia Family Theater
-Sun Oct 8  | 1:00pm 	| Crafts, Karen Hall | Pear Blossom Place
-Wed Oct 18 | 4:30pm | Cold Weather Workshop, Keiya Johnson | Gallery Boom! 
-Mon Oct 23 | 5:30pm | North Thurston Public Schools Fair, Colton Grainger | Timberline High School
-Tue Oct 24 | 5:00 pm | Olympia School Distric Fair, Colton Grainger | Capitol High School
-Sun Oct 29 | 12:00pm | Crafts, Karen Hall | Pear Blossom Place
-Mon Oct 30 | 5:45pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
-Thu Nov 2 | 2:00pm| Volunteer Workshop, Colton Grainger | Olympia Timberland Library
-Mon Nov 6 | 5:00pm | STEM curriculum, Hannah Hillig | Pear Blossom Place
-Tue Nov 7 | 4:30pm | Cold Weather Workshop II, Colton Grainger | FSC Downtown, 201 Capitol Way N
-Thu Nov 16 | 3:30pm | Preventing Sexual Abuse Workshop, Linda Sisson | Olympia Timberland Library
-Thu Nov 23 | 5:00pm | Thanksgiving, Colton Grainger | Pear Blossom Place
-Fri Nov 24 | 5:00pm | Thanksgiving Leftovers, Colton Grainger | Pear Blossom Place
-<nobr> Mon Nov 27 </nobr>	 | 6:00pm | Reading Hour, Mary Rulewicz | Pear Blossom Place
-Thu Nov 30 | 3:30pm | Preventing Sexual Abuse Workshop, Linda Sisson | Olympia Timberland Library
-Fri Dec 1 | overnight | St. Martin's Urban Plunge | Pear Blossom Place
-Sat Dec 2 | 9:00am | HELP portraits, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Fri Dec 8 | 2:00pm | Holiday Crafts, Anke Matthews | Pear Blossom Place
-Sun Dec 10 | 1:00pm | Crafts, Karen Hall | Pear Blossom Place
-Mon Dec 18 | daytime | Gift Setup, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Tue Dec 19 | daytime | Gift Setup, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-Wed Dec 20 | daytime | Gift Setup, Whitney Trotta | FSC Downtown, 201 Capitol Way N
-
-# Winter 2017--2018
-
-*We have special need for volunteers throughout the Holidays.*
-
- date | time | description | location 
---- | --- | --- | ---
-Fri Dec 22 | 5:00pm | Cookies, MaryLou L. | Pear Blossom Place
-Sun Dec 24 | 5:00pm | Christmas Eve | Pear Blossom Place
-<nobr>Mon Dec 25 </nobr> | 5:00pm | Christmas | Pear Blossom Place
-Tue Dec 26 | 5:00pm | Christmas Clean-up | Pear Blossom Place
-Sun Dec 31 | 5:00pm | New Year's Eve | Pear Blossom Place
-Mon Jan 1  | 5:00pm | New Year's Day | Pear Blossom Place
+Wed Jan 10 | 5:30p | STEM curriculum, Hannah Hillig | [Pear Blossom Place][pbp]
+Thu Jan 11 | 3:30p | Research Talk, Jenny Fryers | [Olympia Timberland Library][lib]
+Fri Jan 12 | 9:30a | Marshal Middle School Day of Service, Colton Grainger | [Donation Room][fsc]
+Sat Jan 13 | 11:00a | Crafts, Brenda Mendez | [Pear Blossom Place][pbp]
+Sat Jan 13 | 2:00p | Obee Credit Union Service, Joanna Garret | [Donation Room][fsc]
+Sun Jan 21 | 12:00p | Crafts, Karen Hall | [Pear Blossom Place][pbp]
+Sun Jan 21 | 1:00p | Studio West Service, Colton Grainger | [Donation Room][fsc]
+Thu Jan 25 | all day | Point in Time Census, Shelly Fox | [Main Office][fsc]
+Mon Jan 29 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
+Wed Jan 31 | 12:00p | Community Opportunities & Internship Fair, Colton Grainger | Evergreen
+Sun Feb 18 | 1:00p | Studio West Service, Colton Grainger | [Main Office][fsc]
+Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
+Mon Mar 19 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp] 
+Sun Apr 15 | 1:00p | Studio West Service, Colton Grainger | [Main Office][fsc]
+Sun May 20 | 1:00p | Studio West Service, Colton Grainger | [Main Office][fsc]
 
 
+[pbp]: https://www.google.com/maps/place/Pear+Blossom+Place/@47.0423792,-122.8932699,17z/data=!3m1!4b1!4m5!3m4!1s0x549174e1d548747f:0x4e89b380a6ff5f9e!8m2!3d47.0423792!4d-122.8910812
+[fsc]: https://www.google.com/maps/place/Family+Support+Center/@47.0459107,-122.9042318,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751bc115f4a1:0xa72d6746d527f48e!8m2!3d47.0459107!4d-122.9020431
+[lib]: https://www.google.com/maps/place/Olympia+Timberland+Library/@47.0412387,-122.9002976,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751d90a12da9:0x8a9f18ea3ed43d65!8m2!3d47.0412387!4d-122.8981089

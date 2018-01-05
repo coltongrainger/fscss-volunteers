@@ -25,10 +25,12 @@
 <style type="text/css">
 /* License: CC0 */
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400');
+
 body {
-  background-color: #abb2c1;
+  background-color: #fff;
   padding: 20px; 
-  font-family: Noto Sans, Helvetica, sans-serif; 
+  font-family: 'Open Sans', sans-serif;
   color: #333333 ;
 }
 
@@ -56,14 +58,12 @@ main {
     max-width: 600px;
     text-align: left;
     word-wrap: break-word;
-    background: #ffffff;
     margin-left: auto ;
     margin-right: auto ;
     margin-bottom: 20px ;
     padding: 20px ;
     padding-left: 40px ;
     padding-right: 40px ;
-    border-radius: 9px ;
 }
 
 @media screen and (max-width: 600px) {
@@ -89,11 +89,26 @@ blockquote {
 }
 
 pre {
-    font-family: Noto Sans, Helvetica, sans-serif; 
+    font-family: 'Open Sans', sans-serif;
     display: block;
     line-height: 1.2;
     overflow: auto;
     padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse
+}
+
+th,
+td {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid #e5e5e5
+}
+
+header { 
 }
 
 footer { margin: auto;
@@ -105,8 +120,7 @@ footer { margin: auto;
 </style>
 
 <body>
-  <header style="font-family: Noto Sans, Helvetica, sans-serif; text-decoration: none">
-    <div align = "left">
+  <header>
        
       
       <a 
@@ -117,7 +131,7 @@ footer { margin: auto;
          
           style="font-weight:bold" 
          
-          href="/calendar.html">calendar</a> | 
+          href="/events.html">events</a> | 
       
       <a 
          
@@ -128,20 +142,19 @@ footer { margin: auto;
           href="/wiki.html">wiki</a> | 
       
       <a href="https://www.volgistics.com/ex2/vicnet.dll?from=189830">schedule</a> 
+		
   </header>
 
 
 	<main>
 
 	
-		<h1> calendar </h1>
+		<h1> events </h1>
 	
 
-	<p>In addition to regular volunteering on the <a href="https://www.volgistics.com/ex/portal.dll/?from=189830">shelter schedule</a>, we organize activities and special events.</p>
+	<p>In addition to regular volunteering on the <a href="https://www.volgistics.com/ex/portal.dll/?from=189830">shelter schedule</a>, we organize activities and special events. Want to host an activity? Or bring a group? <a href="mailto:coltong@fscss.org">Let us know</a>.</p>
 
-<p>Want to host an activity? Or bring a group? <a href="mailto:coltong@fscss.org">Let us know</a>.</p>
-
-<h1 id="spring-2018">Spring 2018</h1>
+<h2 id="spring-2018">Spring 2018</h2>
 
 <table>
   <thead>
@@ -251,7 +264,7 @@ footer { margin: auto;
 	</main>
 
 <footer>
-<a href="https://github.com/coltongrainger/fscss-volunteers">source</a></p>
+	This page is a subdomain of <a href="https://fscss.org">fscss.org</a>. 
 </footer>
 </div>
 </body>

@@ -25,10 +25,12 @@
 <style type="text/css">
 /* License: CC0 */
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400');
+
 body {
-  background-color: #abb2c1;
+  background-color: #fff;
   padding: 20px; 
-  font-family: Noto Sans, Helvetica, sans-serif; 
+  font-family: 'Open Sans', sans-serif;
   color: #333333 ;
 }
 
@@ -56,14 +58,12 @@ main {
     max-width: 600px;
     text-align: left;
     word-wrap: break-word;
-    background: #ffffff;
     margin-left: auto ;
     margin-right: auto ;
     margin-bottom: 20px ;
     padding: 20px ;
     padding-left: 40px ;
     padding-right: 40px ;
-    border-radius: 9px ;
 }
 
 @media screen and (max-width: 600px) {
@@ -89,11 +89,26 @@ blockquote {
 }
 
 pre {
-    font-family: Noto Sans, Helvetica, sans-serif; 
+    font-family: 'Open Sans', sans-serif;
     display: block;
     line-height: 1.2;
     overflow: auto;
     padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse
+}
+
+th,
+td {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid #e5e5e5
+}
+
+header { 
 }
 
 footer { margin: auto;
@@ -105,8 +120,7 @@ footer { margin: auto;
 </style>
 
 <body>
-  <header style="font-family: Noto Sans, Helvetica, sans-serif; text-decoration: none">
-    <div align = "left">
+  <header>
        
       
       <a 
@@ -115,7 +129,7 @@ footer { margin: auto;
       
       <a 
          
-          href="/calendar.html">calendar</a> | 
+          href="/events.html">events</a> | 
       
       <a 
          
@@ -128,6 +142,7 @@ footer { margin: auto;
           href="/wiki.html">wiki</a> | 
       
       <a href="https://www.volgistics.com/ex2/vicnet.dll?from=189830">schedule</a> 
+		
   </header>
 
 
@@ -139,7 +154,7 @@ footer { margin: auto;
 
 	<p>These are the agreements that we ask our volunteers, interns, and work-studies to make. They are published here for transparency.</p>
 
-<h1 id="consent-to-background-check">Consent to Background Check</h1>
+<h2 id="consent-to-background-check">Consent to Background Check</h2>
 
 <p>I give my permission for the Family Support Center of South Sound (FSCSS) to conduct a search of my background to determine my qualifications for interning/volunteering.</p>
 
@@ -163,7 +178,7 @@ footer { margin: auto;
   <li>CAMIS/DSHS clearance for Child Abuse and Neglect</li>
 </ul>
 
-<h1 id="confidentiality">Confidentiality</h1>
+<h2 id="confidentiality">Confidentiality</h2>
 
 <p>Basic to the maintenance of the professional ethics and community respect is the principle of confidentiality. Every employee, contracted professional, and volunteer of FSCSS has a high ethical responsibility to the families, the programs, the community, and to themselves. Families and individuals act in good faith, expecting their circumstances and personal matters to remain confidential. We are obligated by law and ethics to reciprocate.</p>
 
@@ -198,7 +213,7 @@ footer { margin: auto;
 
 <p>I agree to maintain client confidentiality at all times. All information, written or spoken, that I come into contact with while performing my volunteer duties is considered confidential and will not be released unless specified by law.</p>
 
-<h1 id="role-acknowledgement">Role Acknowledgement</h1>
+<h2 id="role-acknowledgement">Role Acknowledgement</h2>
 
 <ul>
   <li>
@@ -242,7 +257,7 @@ footer { margin: auto;
   </li>
 </ul>
 
-<h1 id="mandated-reporter-acknowledgement">Mandated Reporter Acknowledgement</h1>
+<h2 id="mandated-reporter-acknowledgement">Mandated Reporter Acknowledgement</h2>
 
 <p>I understand the requirements of Washington State Mandated Reporting. I agree to report any suspected child abuse and/or neglect to DSHS and to the Family Support Center management as soon as I learn, suspect, or observe abuse/neglect.</p>
 
@@ -260,7 +275,7 @@ footer { margin: auto;
 	</main>
 
 <footer>
-<a href="https://github.com/coltongrainger/fscss-volunteers">source</a></p>
+	This page is a subdomain of <a href="https://fscss.org">fscss.org</a>. 
 </footer>
 </div>
 </body>

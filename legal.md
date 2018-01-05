@@ -7,7 +7,7 @@ date: 2017-08-21
 
 These are the agreements that we ask our volunteers, interns, and work-studies to make. They are published here for transparency.
 
-# Consent to Background Check
+## Consent to Background Check
 
 I give my permission for the Family Support Center of South Sound (FSCSS) to conduct a search of my background to determine my qualifications for interning/volunteering.
 
@@ -24,7 +24,7 @@ I consent to the following searches:
 - personal references,
 - CAMIS/DSHS clearance for Child Abuse and Neglect
 
-# Confidentiality
+## Confidentiality
 
 Basic to the maintenance of the professional ethics and community respect is the principle of confidentiality. Every employee, contracted professional, and volunteer of FSCSS has a high ethical responsibility to the families, the programs, the community, and to themselves. Families and individuals act in good faith, expecting their circumstances and personal matters to remain confidential. We are obligated by law and ethics to reciprocate.
 
@@ -54,7 +54,7 @@ I understand and agree to the above policy and statement. I am aware that any br
 
 I agree to maintain client confidentiality at all times. All information, written or spoken, that I come into contact with while performing my volunteer duties is considered confidential and will not be released unless specified by law.
 
-# Role Acknowledgement
+## Role Acknowledgement
 
 - I accept the role of **volunteer**[^interns] in Homeless Family Services at the Family Support Center of South Sound. I give my volunteer services and donate my time gratuitously to FSCSS of my own volition because I wish to support the mission of the organization, "Working Together to Strengthen All Families", without expectation of compensation.
 
@@ -82,7 +82,7 @@ I agree to maintain client confidentiality at all times. All information, writte
 
 - I understand that my volunteer relationship with FSCSS may be terminated by me or FSCSS at any time for any reason.
 
-# Mandated Reporter Acknowledgement
+## Mandated Reporter Acknowledgement
 
 I understand the requirements of Washington State Mandated Reporting. I agree to report any suspected child abuse and/or neglect to DSHS and to the Family Support Center management as soon as I learn, suspect, or observe abuse/neglect.
 

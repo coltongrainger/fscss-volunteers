@@ -4,6 +4,8 @@ author: Colton Grainger
 order: 4
 ---
 
+A collection of notes for volunteers, grouped by subject.
+
 ### Orientation 
 <ul>
 {% for post in site.tags["orientation"] %}

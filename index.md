@@ -1,10 +1,18 @@
 ---
-title: Overview 
+title: home 
 author: Colton Grainger
 order: 1
 # date: 2017-08-21
 # modified: 2018-01-04
 ---
+
+<a href="http://fscss.org/">
+<img src="/images/logo.png" style="float: right; margin: 0px 0px 23px 23px" width="200">
+</a>
+
+<a href="https://www.volgistics.com/ex/portal.dll/ap?ap=1953929563" style="font-size:20px; font-style: italic">
+Apply to volunteer!
+</a>
 
 ## About Volunteering 
 

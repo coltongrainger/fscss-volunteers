@@ -1,5 +1,5 @@
 ---
-title: HOWTO: answer the phone 
+title: HOWTO Answer the Phone 
 author: Colton Grainger
 date: 2017-10-17
 modified: 2017-12-12
@@ -7,9 +7,9 @@ tags:
   - orientation
 ---
 
-The phone at Pear Blossom Place is the 24/7 coordinated entry hotline for Thurston county. Here's advice for answering the phone. 
+The phone at Pear Blossom Place is the 24/7 coordinated entry hotline for Thurston county. Here's advice for answering.
 
-## Answering the phone. 
+## Are they eligible for service? 
 
 Who is calling us?
 - Families looking for shelter
@@ -32,7 +32,7 @@ On nights when we don’t have shelter space:
 - Do you have anywhere else you can stay tonight?
 - Safe parking lots are often WalMart, churches, SafeWay, etc.
 
-## Coordinated Entry Thurston County
+## Other Coorindated Entry Points in Thurston County
 
 This is the general division of social service agencies that serve people experiencing homelessness.
 

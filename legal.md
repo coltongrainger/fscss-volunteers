@@ -1,5 +1,5 @@
 ---
-title: Legal 
+title: legal 
 order: 3
 author: Colton Grainger
 date: 2017-08-21

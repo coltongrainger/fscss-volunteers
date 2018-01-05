@@ -1,5 +1,5 @@
 ---
-title: Calendar 
+title: calendar 
 author: Colton Grainger
 order: 2 
 ---

@@ -1,9 +1,8 @@
 ---
-title: Wiki 
+title: wiki 
 author: Colton Grainger
 order: 4
 ---
-
 
 ### Orientation 
 <ul>

@@ -1,9 +1,11 @@
 ---
-title: Monthly Updates and Statistics for the Volunteer Program
+title: Monthly Updates 
 author: Colton Grainger
 date: 2017-12-05
 modified: 2017-01-04
 status: log 
+tags:
+  - statistics 
 ---
 
 How many volunteers helped last month? What sort of work did volunteers do? This page logs volunteer service at shelter and significant events. Since some volunteers take shifts in multiple positions, the monthly totals do not sum exactly.

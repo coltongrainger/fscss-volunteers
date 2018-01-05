@@ -20,19 +20,21 @@ Volunteers keep our family shelter, [Pear Blossom Place][pbp], open 24 hours a d
 
 The [main office][fsc] houses a large donation room for our clients' use. Volunteers may access this room whenever the office is open. We need help unpacking, sorting, and distributing goods.  
 
-We will also schedule volunteers for [special events](/events.html) that support families and children. When possible, we coordinate group meals, birthday parties, and educational activities.
+We will also schedule volunteers for [special events](/events) that support families and children. When possible, we coordinate group meals, birthday parties, and educational activities.
 
-| [Pear Blossom Place][pbp] |   |   |
+[Pear Blossom Place][pbp] 
+
 |---|---|---|
 | Greeter | 5:00pm -- 7:30pm  | (daily) |  
 | Overnight Host | 7:00pm -- 7:00am | (daily) |
 | Daytime AM | 8:00am -- 12:30pm | (weekends/holidays) |
 | Daytime PM | 12:30pm -- 5:00pm | (weekends/holidays) |
 
-| [Main Office][fsc] |   |   |
+[Main Office][fsc] 
+
 |---|---|---|
 | Donation Room | 8:00am--5:00pm | (walk in on weekdays) |
-| Special Events | as scheduled | ([contact us](mailto:coltong@fscss.org)) |
+| Special Events | as scheduled | ([see here](/events)) |
 
 ## How to Get Started 
 

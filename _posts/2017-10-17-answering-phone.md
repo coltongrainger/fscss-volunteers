@@ -1,5 +1,5 @@
 ---
-title: HOWTO Answer the Phone 
+title: "HOWTO: Answer the phone"
 author: Colton Grainger
 date: 2017-10-17
 modified: 2017-12-12
@@ -9,9 +9,8 @@ tags:
 
 The phone at Pear Blossom Place is the 24/7 coordinated entry hotline for Thurston county. Here's advice for answering.
 
-## Are they eligible for service? 
+### Who is calling? 
 
-Who is calling us?
 - Families looking for shelter
 - Single individuals looking for shelter
 - People looking for a staff person
@@ -19,7 +18,8 @@ Who is calling us?
 - Families calling looking for rental assistance, support
 - Law enforcement, social workers, hospital staff calling on behalf of someone looking for shelter
 
-Ask clarifying questions.
+### Ask clarifying questions.
+
 - Do you have children? 
 - Have you been to our agency before?
 - Where are you located?
@@ -27,14 +27,15 @@ Ask clarifying questions.
 
 We want to make sure that we support the caller, understand their needs, and give meaningful and helpful referrals. (I have admittedly made useless referrals to Aberdeen---it's a shelter for women and children, but I often forget and refer families with males.)
 
-On nights when we don’t have shelter space:
+### On nights when we don’t have shelter space
+
 - Have you gone into the Family Support Center office? 
 - Do you have anywhere else you can stay tonight?
-- Safe parking lots are often WalMart, churches, SafeWay, etc.
+- Safe parking lots include WalMart, churches, SafeWay, etc.
 
-## Other Coorindated Entry Points in Thurston County
+### Refer to coordinated entry
 
-This is the general division of social service agencies that serve people experiencing homelessness.
+In Thurston County, the Family Support Center runs coordinated entry for families with children and expectant parents. We also work with a small group of single adults in special circumstances. Here's the general division of labor. 
 
 - Interfaith Works/Sidewalk (single men and women)
   - 1139 5th Ave SE; Olympia
@@ -48,8 +49,3 @@ This is the general division of social service agencies that serve people experi
 - Community Action Council of Lewis/Mason/Thurston HEN Clients Only
   - 3020 Willamette Dre NE, Lacey
   - 360-438-1100
-
-## Interagency Referrals
-
-- [Dept of Social and Health Services](https://www.dshs.wa.gov/search/site/tanf), for TANF clients
-

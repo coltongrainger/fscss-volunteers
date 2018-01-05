@@ -1,5 +1,5 @@
 ---
-title: Cold Weather Meeting
+title: "HOWTO: Help during cold weather shelter"
 author: Colton Grainger
 date: 2017-11-07
 status: notes 

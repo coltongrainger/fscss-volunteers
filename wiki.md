@@ -4,43 +4,31 @@ author: Colton Grainger
 order: 4
 ---
 
-A collection of notes for volunteers, grouped by subject.
+Notes for volunteers, grouped by subject.
 
 ### Orientation 
-<ul>
+<dl>
 {% for post in site.tags["orientation"] %}
       <dt>
 	<a href="{{ post.url }}">{{ post.title }}</a> 
       </dt>
 {% endfor %}
-</ul>
-
-### Statistics 
-<ul>
-{% for post in site.tags["statistics"] %}
-      <dt>
-	<a href="{{ post.url }}">{{ post.title }}</a> 
-      </dt>
-{% endfor %}
-</ul>
+</dl>
 
 ### Activities 
-<ul>
+<dl>
 {% for post in site.tags["activities"] %}
       <dt>
 	<a href="{{ post.url }}">{{ post.title }}</a> 
       </dt>
 {% endfor %}
-</ul>
+</dl>
 
-## Chronological
+### Statistics 
 <dl>
-  {% for post in site.posts %}
+{% for post in site.tags["statistics"] %}
       <dt>
-	<a href="{{ post.url }}">{{ post.title }}</a>, <i>{{ post.date | date: "%Y-%m-%d" }}</i>
+	<a href="{{ post.url }}">{{ post.title }}</a> 
       </dt>
-      <dd>
-	{{ post.excerpt }}
-      </dd>
-  {% endfor %}
+{% endfor %}
 </dl>

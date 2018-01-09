@@ -15,6 +15,15 @@ Notes for volunteers, grouped by subject.
 {% endfor %}
 </dl>
 
+### Safety
+<dl>
+{% for post in site.tags["safety"] %}
+      <dt>
+	<a href="{{ post.url }}">{{ post.title }}</a> 
+      </dt>
+{% endfor %}
+</dl>
+
 ### Activities 
 <dl>
 {% for post in site.tags["activities"] %}

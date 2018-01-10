@@ -8,7 +8,7 @@ In addition to regular volunteering on the [shelter schedule](https://www.volgis
 
 Want to host an activity? Or bring a group? [Send us an email](mailto:coltong@fscss.org).  
 
-## Spring 2018
+### Spring 2018
 
 day&nbsp;of&nbsp;event | time | description | location
 --- | --- | --- | ---

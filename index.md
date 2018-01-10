@@ -48,7 +48,7 @@ We will also schedule volunteers for [special events](/events) that support fami
   * We pair you with someone who has experience volunteering.
   * We give you login information for [self-scheduling](https://www.volgistics.com/ex/portal.dll/?from=189830).
 
-## Contact
+### Contact
 
 --- | ---
 Colton Grainger | Community Engagement Specialist

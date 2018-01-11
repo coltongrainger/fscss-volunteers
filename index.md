@@ -41,7 +41,7 @@ We will also schedule volunteers for [special events](/events) that support fami
 1. Complete the [application](https://www.volgistics.com/ex/portal.dll/ap?ap=1953929563).
   * We review the application and get back to you in 48 hours.
   * We run background checks.
-2. Attend a volunteer orientation with [Keiya](mailto:keiyaj@fscss.org) or [Colton](mailto:coltong@fscss.org).
+2. Schedule a [volunteer orientation](https://coltongrainger.youcanbook.me).
   * We discuss [mandatory reporting](https://prezi.com/piml7bn_b0au/mandatory-reporter-presentation/) and client confidentiality.
   * Here are the [agreements](https://goo.gl/forms/wTSzSpJm7JfKDkqA3).
 3. Come for a training shift at Pear Blossom Place.

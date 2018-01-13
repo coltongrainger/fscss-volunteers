@@ -17,26 +17,14 @@ Thu Jan 11 | 3:30p | Research Talk, Jenny Fryers | [Olympia Library][lib]
 Fri Jan 12 | 9:30a | Marshal Middle School Day of Service | [Donation Room][fsc]
 Sat Jan 13 | 11:00a | Crafts, Brenda Mendez | [Pear Blossom Place][pbp]
 Sat Jan 13 | 2:00p | Obee Credit Union Service, Joanna Garret | [Donation Room][fsc]
-Tue Jan 16 | 9:00a | Forest Preschool, Claire Petersen | off-site
-Thu Jan 18 | 9:00a | Forest Preschool, Claire Petersen | off-site
 Sun Jan 21 | 12:00p | Crafts, Karen Hall | [Pear Blossom Place][pbp]
 Sun Jan 21 | 1:00p | Studio West Service | [Donation Room][fsc]
-Tue Jan 23 | 9:00a | Forest Preschool, Claire Petersen | off-site
 Thu Jan 25 | all day | Point in Time Census, Shelly Fox | [Main Office][fsc]
-Thu Jan 25 | 9:00a | Forest Preschool, Claire Petersen | off-site
 Mon Jan 29 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
-Tue Jan 30 | 9:00a | Forest Preschool, Claire Petersen | off-site
 Wed Jan 31 | 12:00p | Community Opportunities & Internship Fair | Evergreen
-Thu Feb 1  | 9:00a | Forest Preschool, Claire Petersen | off-site
-Tue Feb 6  | 9:00a | Forest Preschool, Claire Petersen | off-site
-Thu Feb 8  | 9:00a | Forest Preschool, Claire Petersen | off-site
 Fri Feb 9  | 5:30p | "Tall Tower Challenge", Hannah Hillig | [Pear Blossom Place][pbp]
-Tue Feb 13 | 9:00a | Forest Preschool, Claire Petersen | off-site
-Thu Feb 15 | 9:00a | Forest Preschool, Claire Petersen | off-site
 Thu Feb 15 | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib]
 Sun Feb 18 | 1:00p | Studio West Service | [Main Office][fsc]
-Tue Feb 20 | 9:00a | Forest Preschool, Claire Petersen | off-site
-Thu Feb 22 | 9:00a | Forest Preschool, Claire Petersen | off-site
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Tue Feb 27 | 6:30p | Anger Workshop (Elementary Ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
 Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 

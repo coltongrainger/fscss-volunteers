@@ -21,6 +21,7 @@ Sun Jan 21 | 1:00p | Studio West Service | [Donation Room][fsc]
 Thu Jan 25 | all day | Point in Time Census, Shelly Fox | [Main Office][fsc]
 Mon Jan 29 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Wed Jan 31 | 12:00p | Community Opportunities & Internship Fair | Evergreen
+Fri Feb 2  | 6:30p | Opening night: *[Three Impossible Questions](http://olyft.org/3-impossible-questions/)* | [Olympia Family Theater][olf]
 Fri Feb 9  | 5:30p | "Tall Tower Challenge", Hannah Hillig | [Pear Blossom Place][pbp]
 Thu Feb 15 | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib]
 Sun Feb 18 | 1:00p | Studio West Service | [Main Office][fsc]
@@ -41,3 +42,4 @@ Sun May 20 | 1:00p | Studio West Service | [Main Office][fsc]
 [lib]: https://www.google.com/maps/place/Olympia+Timberland+Library/@47.0412387,-122.9002976,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751d90a12da9:0x8a9f18ea3ed43d65!8m2!3d47.0412387!4d-122.8981089
 [orla]: https://www.google.com/maps/place/Olympia+Regional+Learning+Academy/@47.0371244,-122.8701067,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x1b81b1e5ac518517!8m2!3d47.0371244!4d-122.867918
 [prov]: https://www.google.com/maps/place/Providence+Immediate+Care+Lacey/@47.0042043,-122.8241121,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc227b5a1b7897759!8m2!3d47.0042043!4d-122.8219234
+[olf]: https://www.google.com/maps/place/Olympia+Family+Theater/@47.0455796,-122.8949079,15z/data=!4m5!3m4!1s0x0:0xf516848f82fe4804!8m2!3d47.0455796!4d-122.8949079?sa=X&ved=0ahUKEwjZp-fVqOrYAhVX6mMKHecpBCAQ_BIIfDAN

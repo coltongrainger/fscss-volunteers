@@ -15,7 +15,6 @@ day&nbsp;of&nbsp;event | time | description | location
 Wed Jan 10 | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Thu Jan 11 | 3:30p | Research Talk, Jenny Fryers | [Olympia Library][lib]
 Fri Jan 12 | 9:30a | Marshal Middle School Day of Service | [Donation Room][fsc]
-Sat Jan 13 | 11:00a | Crafts, Brenda Mendez | [Pear Blossom Place][pbp]
 Sat Jan 13 | 2:00p | Obee Credit Union Service, Joanna Garret | [Donation Room][fsc]
 Sun Jan 21 | 12:00p | Crafts, Karen Hall | [Pear Blossom Place][pbp]
 Sun Jan 21 | 1:00p | Studio West Service | [Donation Room][fsc]
@@ -31,6 +30,7 @@ Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib]
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Tue Mar 13 | 6:30p | LGBTQAI Workshop (Teen ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
 Mon Mar 19 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp] 
+Sat Mar 24 | all day | Mental Health First Aid, Tony Cloud | [Providence Immediate Care Lacey][prov]
 Wed Apr 11 | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Thu Apr 12 | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
 Sun Apr 15 | 1:00p | Studio West Service | [Main Office][fsc]
@@ -40,3 +40,4 @@ Sun May 20 | 1:00p | Studio West Service | [Main Office][fsc]
 [fsc]: https://www.google.com/maps/place/Family+Support+Center/@47.0459107,-122.9042318,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751bc115f4a1:0xa72d6746d527f48e!8m2!3d47.0459107!4d-122.9020431
 [lib]: https://www.google.com/maps/place/Olympia+Timberland+Library/@47.0412387,-122.9002976,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751d90a12da9:0x8a9f18ea3ed43d65!8m2!3d47.0412387!4d-122.8981089
 [orla]: https://www.google.com/maps/place/Olympia+Regional+Learning+Academy/@47.0371244,-122.8701067,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x1b81b1e5ac518517!8m2!3d47.0371244!4d-122.867918
+[prov]: https://www.google.com/maps/place/Providence+Immediate+Care+Lacey/@47.0042043,-122.8241121,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc227b5a1b7897759!8m2!3d47.0042043!4d-122.8219234

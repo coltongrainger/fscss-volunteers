@@ -37,7 +37,7 @@ Thu Apr 12 | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib]
 Sun Apr 15 | 1:00p | Studio West Service | [Main Office][fsc]
 Sun May 20 | 1:00p | Studio West Service | [Main Office][fsc]
 
-## Summer 2018
+### Summer 2018
 
 day&nbsp;of&nbsp;event | time | description | location
 --- | --- | --- | ---

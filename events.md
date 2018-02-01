@@ -23,6 +23,7 @@ Mon Jan 29 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Wed Jan 31 | 12:00p | Community Opportunities & Internship Fair | Evergreen
 Fri Feb 2  | 6:30p | Opening night: *[Three Impossible Questions](http://olyft.org/3-impossible-questions/)* | [Olympia Family Theater][olf]
 Fri Feb 9  | 5:30p | "Tall Tower Challenge", Hannah Hillig | [Pear Blossom Place][pbp]
+Wed Feb 14 | 11:00am | Thurston Chamber Forum: Education Summit | [Hotel RL Olympia][rl]
 Thu Feb 15 | 3:30p | Coordinated Entry Workshop, Colton Grainger | [Olympia Library][lib]
 Sun Feb 18 | 1:00p | Studio West Service | [Main Office][fsc]
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
@@ -50,3 +51,4 @@ Mon Aug 20 -- Sat Aug 25 | all day | Camp HOPE Classic Week,  ages 7--11, [nomin
 [orla]: https://www.google.com/maps/place/Olympia+Regional+Learning+Academy/@47.0371244,-122.8701067,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x1b81b1e5ac518517!8m2!3d47.0371244!4d-122.867918
 [prov]: https://www.google.com/maps/place/Providence+Immediate+Care+Lacey/@47.0042043,-122.8241121,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc227b5a1b7897759!8m2!3d47.0042043!4d-122.8219234
 [olf]: https://www.google.com/maps/place/Olympia+Family+Theater/@47.0455796,-122.8949079,15z/data=!4m5!3m4!1s0x0:0xf516848f82fe4804!8m2!3d47.0455796!4d-122.8949079?sa=X&ved=0ahUKEwjZp-fVqOrYAhVX6mMKHecpBCAQ_BIIfDAN
+[rl]: https://www.google.com/maps/place/Hotel+RL+Olympia+by+Red+Lion/@47.0275609,-122.9150658,17z/data=!3m1!4b1!4m5!3m4!1s0x54917456da117c1d:0xa6dfdaf9bc0519a!8m2!3d47.0275609!4d-122.9128718

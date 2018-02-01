@@ -37,6 +37,13 @@ Thu Apr 12 | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib]
 Sun Apr 15 | 1:00p | Studio West Service | [Main Office][fsc]
 Sun May 20 | 1:00p | Studio West Service | [Main Office][fsc]
 
+## Summer 2018
+
+day&nbsp;of&nbsp;event | time | description | location
+--- | --- | --- | ---
+Mon Jul 2 -- Sat Jul 7 | all day | Camp HOPE High Adventure Week,  ages 11-17, [nominations](https://docs.google.com/forms/d/e/1FAIpQLSePRAvyKdw3L1SFhbQGdpqhkuzhbik5E5yMBwgjv6zIyu5U0w/viewform), [donations](https://commerce.ayt360.org/Compass360WebPortals/eCommerce/org=fscss.org/request=donations) | Panhandle Lake 4-H Camp
+Mon Aug 20 -- Sat Aug 25 | all day | Camp HOPE Classic Week,  ages 7--11, [nominations](https://docs.google.com/forms/d/e/1FAIpQLSePRAvyKdw3L1SFhbQGdpqhkuzhbik5E5yMBwgjv6zIyu5U0w/viewform), [donations](https://commerce.ayt360.org/Compass360WebPortals/eCommerce/org=fscss.org/request=donations) | Panhandle Lake 4-H Camp
+
 [pbp]: https://www.google.com/maps/place/Pear+Blossom+Place/@47.0423792,-122.8932699,17z/data=!3m1!4b1!4m5!3m4!1s0x549174e1d548747f:0x4e89b380a6ff5f9e!8m2!3d47.0423792!4d-122.8910812
 [fsc]: https://www.google.com/maps/place/Family+Support+Center/@47.0459107,-122.9042318,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751bc115f4a1:0xa72d6746d527f48e!8m2!3d47.0459107!4d-122.9020431
 [lib]: https://www.google.com/maps/place/Olympia+Timberland+Library/@47.0412387,-122.9002976,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751d90a12da9:0x8a9f18ea3ed43d65!8m2!3d47.0412387!4d-122.8981089

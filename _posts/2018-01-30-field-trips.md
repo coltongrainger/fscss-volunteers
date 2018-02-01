@@ -31,8 +31,8 @@ tags:
 ![chickens](/images/chickens.jpg)
 ![hay](/images/hay.jpg)
 ![ponies](/images/ponies.jpg)
-![steppe](/images/steppe.jpg)
 ![llamas](/images/llamas.jpg)
+![pigs](/images/pigs.jpg)
 
 > Nature Nurtures Farm is non-profit organization that brings young people and animals together to build empathy, teach responsibility, and inspire hope. Nature Nurtures Farm is dedicated to providing educational, therapeutic, and recreational services to youth and families in a safe and peaceful environment that fosters dignity, compassion, and respect for all living things.
 

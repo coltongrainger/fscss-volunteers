@@ -24,6 +24,7 @@ Wed Jan 31 | 12:00p | Community Opportunities & Internship Fair | Evergreen
 Fri Feb 2  | 6:30p | Opening night: *[Three Impossible Questions](http://olyft.org/3-impossible-questions/)* | [Olympia Family Theater][olf]
 Fri Feb 9  | 5:30p | "Tall Tower Challenge", Hannah Hillig | [Pear Blossom Place][pbp]
 Wed Feb 14 | 11:00am | Thurston Chamber Forum: Education Summit | [Hotel RL Olympia][rl]
+Wed Feb 14 | 5:00p | Math Games, Dave Gardner | [Pear Blossom Place][pbp]
 Thu Feb 15 | 3:30p | Coordinated Entry Workshop, Colton Grainger | [Olympia Library][lib]
 Sun Feb 18 | 1:00p | Studio West Service | [Main Office][fsc]
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]

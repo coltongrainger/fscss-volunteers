@@ -28,11 +28,13 @@ Wed Feb 14 | 11:00am | Thurston Chamber Forum: Education Summit | [Hotel RL Olym
 Wed Feb 14 | 5:00p | Math Games, Dave Gardner | [Pear Blossom Place][pbp]
 Thu Feb 15 | 3:30p | [Coordinated Entry Workshop](https://docs.google.com/forms/d/e/1FAIpQLSfZrc6uvmrnuk4LXm3L0TwSOdrxjg_-hgh8Ok3dUjCvITgeGw/viewform?usp=sf_link), Colton Grainger | [Olympia Library][lib]
 Sun Feb 18 | 1:00p | Studio West Service | [Main Office][fsc]
+Thu Feb 22 | 3:30p | Higher Education Outreach, Raymond Mobley | [Pear Blossom Place][pbp]
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Tue Feb 27 | 6:30p | Anger Workshop (Elementary Ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
 Wed Fed 28 | 12:00p | [Volunteer Appreciation Lunch](https://docs.google.com/forms/d/e/1FAIpQLSd9Pg9v_pk9PlLQ9uBLUNG48cKOjm0bKwLHf3F0lpRVaxE18A/viewform?usp=sf_link), Tara Jackson | [Gallery Boom][boom]
 Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
+Sat Mar 10 | 8:00p | [Dance to Make a Difference](http://www.studiowestdanceacademy.com/Home/Performances/DancetoMakeaDifference.aspx) | [Kenneth J Minnaert Center for the Arts](https://www.google.com/maps/place/Kenneth+J.+Minnaert+Center+for+the+Arts/@47.0245027,-122.9297411,15z/data=!4m5!3m4!1s0x0:0x4fe24c9bb51f79ab!8m2!3d47.0245027!4d-122.9297411?sa=X&ved=0ahUKEwj9scuRzpnZAhUC6mMKHVMOAtEQ_BIIcjAK)
 Tue Mar 13 | 6:30p | LGBTQAI Workshop (Teen ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
 Mon Mar 19 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp] 
 Sat Mar 24 | all day | Mental Health First Aid, Tony Cloud | [Providence Immediate Care Lacey][prov]

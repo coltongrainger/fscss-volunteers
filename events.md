@@ -23,12 +23,14 @@ Mon Jan 29 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Wed Jan 31 | 12:00p | Community Opportunities & Internship Fair | Evergreen
 Fri Feb 2  | 6:30p | Opening night: *[Three Impossible Questions](http://olyft.org/3-impossible-questions/)* | [Olympia Family Theater][olf]
 Fri Feb 9  | 5:30p | "Tall Tower Challenge", Hannah Hillig | [Pear Blossom Place][pbp]
+Mon Feb 12 | 5:00p | Community Dinner and Valentine's Crafts | [Pear Blossom Place][pbp]
 Wed Feb 14 | 11:00am | Thurston Chamber Forum: Education Summit | [Hotel RL Olympia][rl]
 Wed Feb 14 | 5:00p | Math Games, Dave Gardner | [Pear Blossom Place][pbp]
-Thu Feb 15 | 3:30p | Coordinated Entry Workshop, Colton Grainger | [Olympia Library][lib]
+Thu Feb 15 | 3:30p | [Coordinated Entry Workshop](https://docs.google.com/forms/d/e/1FAIpQLSfZrc6uvmrnuk4LXm3L0TwSOdrxjg_-hgh8Ok3dUjCvITgeGw/viewform?usp=sf_link), Colton Grainger | [Olympia Library][lib]
 Sun Feb 18 | 1:00p | Studio West Service | [Main Office][fsc]
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Tue Feb 27 | 6:30p | Anger Workshop (Elementary Ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
+Wed Fed 28 | 12:00p | [Volunteer Appreciation Lunch](https://docs.google.com/forms/d/e/1FAIpQLSd9Pg9v_pk9PlLQ9uBLUNG48cKOjm0bKwLHf3F0lpRVaxE18A/viewform?usp=sf_link), Tara Jackson | [Gallery Boom][boom]
 Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Tue Mar 13 | 6:30p | LGBTQAI Workshop (Teen ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
@@ -53,3 +55,4 @@ Mon Aug 20 -- Sat Aug 25 | all day | Camp HOPE Classic Week,  ages 7--11, [nomin
 [prov]: https://www.google.com/maps/place/Providence+Immediate+Care+Lacey/@47.0042043,-122.8241121,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc227b5a1b7897759!8m2!3d47.0042043!4d-122.8219234
 [olf]: https://www.google.com/maps/place/Olympia+Family+Theater/@47.0455796,-122.8949079,15z/data=!4m5!3m4!1s0x0:0xf516848f82fe4804!8m2!3d47.0455796!4d-122.8949079?sa=X&ved=0ahUKEwjZp-fVqOrYAhVX6mMKHecpBCAQ_BIIfDAN
 [rl]: https://www.google.com/maps/place/Hotel+RL+Olympia+by+Red+Lion/@47.0275609,-122.9150658,17z/data=!3m1!4b1!4m5!3m4!1s0x54917456da117c1d:0xa6dfdaf9bc0519a!8m2!3d47.0275609!4d-122.9128718
+[boom]: https://www.google.com/maps/place/Gallery+Boom/@47.0438683,-122.8977474,15z/data=!4m5!3m4!1s0x0:0x581b05a97efcc4b2!8m2!3d47.0438683!4d-122.8977474?sa=X&ved=0ahUKEwjc9KnrqZnZAhVY1GMKHV_4DHkQ_BIIhQEwDw

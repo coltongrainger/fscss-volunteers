@@ -11,14 +11,14 @@ order: 1
 </a>
 
 <a href="https://www.volgistics.com/ex/portal.dll/ap?ap=1953929563" style="font-size: 130%;font-style: italic"> 
-Apply to volunteer!
+application for volunteers/interns/work-studies
 </a><br>
 
-## Volunteering at the Family Support Center
+## Helping at the Family Support Center
 
-Volunteers keep our family shelter, [Pear Blossom Place][pbp], open 24 hours a day. We schedule at least 2 volunteers to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.
+Volunteers, Interns, Work-studies and staff keep our family shelter, [Pear Blossom Place][pbp], open 24 hours a day. We schedule at least 2 people to work each shift. Though staff only work 7:00am -- 5:00pm, there is always an on-call staff in case of an emergency.
 
-The [main office][fsc] houses a large donation room for our clients' use. Volunteers may access this room whenever the office is open. We need help unpacking, sorting, and distributing goods.  
+The [main office][fsc] houses a large donation room for our clients' use. Volunteers may access this room whenever the office is open. We need help unpacking, sorting, and distributing goods.
 
 We will also schedule volunteers for [special events](/events) that support families and children. When possible, we coordinate group meals, birthday parties, and educational activities.
 

@@ -21,17 +21,17 @@ This post focuses on the mechanics of a high-impact internship program running w
   - for example, require 2 free responses
     - statement of interest
     - strengths and experience
-  - allow rolling applications for any of the following (but review with funding in mind)
-    - volunteer position
-    - internship
-    - work-study
+  - allow rolling applications, but review with funding in mind
+    - volunteer positions
+    - internships
+    - work-studies
 - Passively schedule interviews.
-  - work smarter, not harder: ask the applicant to book a time with
+  - ask the applicant to book a time via
     - [scheduleonce.com](https://www.scheduleonce.com/)
     - [youcanbook.me](https://youcanbook.me/)
 - Provide an outline of responsibilities.
   - typically pay is not negotiated
-  - but time commit ment should flex
+  - but time commitment should flex
   - minimum 1:4 in collaboration and 1:20 in direct supervision
 - Perform a mid- and end-of-service review.
 - For recommendation letters: [know your audience](http://www.dickinson.edu/download/downloads/id/3576/facultylettersofrecguide) and [put examples first!](https://gowers.wordpress.com/2007/10/19/my-favourite-pedagogical-principle-examples-first/)

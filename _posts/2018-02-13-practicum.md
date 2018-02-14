@@ -31,14 +31,14 @@ This post focuses on the mechanics of a high-impact internship program running w
     - [youcanbook.me](https://youcanbook.me/)
 - Provide an outline of responsibilities.
   - typically pay is not negotiated
-  - but time committment should flex
+  - but time commit ment should flex
   - minimum 1:4 in collaboration and 1:20 in direct supervision
 - Perform a mid- and end-of-service review.
 - For recommendation letters: [know your audience](http://www.dickinson.edu/download/downloads/id/3576/facultylettersofrecguide) and [put examples first!](https://gowers.wordpress.com/2007/10/19/my-favourite-pedagogical-principle-examples-first/)
 
 ### Further Suggestions
 
-- Maintain an webpage of current/former interns.
+- Maintain a webpage of current/former interns.
 - Schedule interns for a colloquium-style talk hosted by the organization.
 - Make a list of suggested reading (beyond the policy manual).
 

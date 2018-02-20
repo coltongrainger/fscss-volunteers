@@ -8,15 +8,15 @@ date: 2018-02-20
 
 Adapted directly from the [King County CE information](https://www.kingcounty.gov/depts/community-human-services/housing/services/homeless-housing/coordinated-entry/faqs.aspx).
 
-1. What is Coordinated Entry?
+### What is Coordinated Entry?
 
 CE ensures that people experiencing homelessness in Thurston County can get help finding stable housing by identifying, assessing, and connecting them to housing support services and housing resources. CE uses a standardized Housing Triage Tool that matches the right level of services and available housing resources to people experiencing homelessness.
 
-2. How does CE work?
+### How does CE work?
 
 CE uses a triage tool, called the VI-SPDAT, to get more information about the needs of each homeless family or homeless person. In general, the triage tool asks a series of questions about you, your health, how you are experiencing homelessness, and what other needs you might have.
 
-3. Who does CE serve?
+### Who does CE serve?
 
 CE serves all people (single adults, young adults, couples, families, and veterans) who are experiencing homelessness in King County. 
 
@@ -34,7 +34,7 @@ Being homeless means you are:
 >
 > Institution means a jail, prison, a psychiatric hospital, medical hospital, or a drug/alcohol treatment program.
 
-4. How can I get connected to CE?
+### How can I get connected to CE?
 
 - Interfaith Works/Sidewalk 
   - single men and women
@@ -64,14 +64,11 @@ Being homeless means you are:
 >   - 360-918-7879
 >   - [520 Pear St. SE, Olympia, WA 98501](https://www.google.com/maps/place/520+Pear+St+SE,+Olympia,+WA+98501/@47.0441562,-122.8930431,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751f953e2c63:0x201682d590dfb593!8m2!3d47.0441562!4d-122.8908544)
 
-5. I do not meet any of the conditions described in Question 3, where can I go for help?
-6. Where are the Regional Access Point offices located?
-7. What happens when I call 211?
-8. I do not speak English very well. Will I be able to get a CE Housing Triage Tool evaluation?
-9. I have young children. Can I bring them to the meeting?
-10. I have work or school during the daytime hours. Will I be able to get a screening?
-11. What if I am currently in a jail or a prison, can CE help me?
-12. I have completed CE Housing Triage Tool evaluation, is there a waitlist for housing? How long does it take for me to get housing?
-13. I have completed the CE Housing Triage Tool but my situation has changed. What should I do?
-14. I have a concern about CE policies and procedures, who do I talk to?
-15. Who Can I Call for Emergency Shelter Services?
+- I do not speak English very well. Will I be able to get a CE Housing Triage Tool evaluation?
+- I have young children. Can I bring them to the meeting?
+- I have work or school during the daytime hours. Will I be able to get a screening?
+- What if I am currently in a jail or a prison, can CE help me?
+- I have completed CE Housing Triage Tool evaluation, is there a waitlist for housing? How long does it take for me to get housing?
+- I have completed the CE Housing Triage Tool but my situation has changed. What should I do?
+- I have a concern about CE policies and procedures, who do I talk to?
+- Who Can I Call for Emergency Shelter Services?

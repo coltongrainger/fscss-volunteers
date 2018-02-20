@@ -2,6 +2,8 @@
 title: HOWTO Assist with Coordinated Entry (CE)
 author: Colton Grainger
 date: 2018-02-20
+tags:
+  - orientation
 ---
 
 ## Frequently Asked Questions
@@ -63,6 +65,8 @@ Being homeless means you are:
 >   - Young adults ages 18-24, all genders welcome.
 >   - 360-918-7879
 >   - [520 Pear St. SE, Olympia, WA 98501](https://www.google.com/maps/place/520+Pear+St+SE,+Olympia,+WA+98501/@47.0441562,-122.8930431,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751f953e2c63:0x201682d590dfb593!8m2!3d47.0441562!4d-122.8908544)
+
+## Other Questions
 
 - I do not speak English very well. Will I be able to get a CE Housing Triage Tool evaluation?
 - I have young children. Can I bring them to the meeting?

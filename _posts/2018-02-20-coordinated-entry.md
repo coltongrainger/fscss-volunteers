@@ -20,7 +20,7 @@ CE uses a triage tool, called the VI-SPDAT, to get more information about the ne
 
 ### Who does CE serve?
 
-CE serves all people (single adults, young adults, couples, families, and veterans) who are experiencing homelessness in King County. 
+CE serves all people (single adults, young adults, couples, families, and veterans) who are experiencing homelessness in Thurston County. 
 
 Additionally, young adults who are at risk of homelessness within 14 days can also receive CE services.
 

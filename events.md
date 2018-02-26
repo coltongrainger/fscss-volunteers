@@ -10,6 +10,7 @@ Want to host an activity? Or bring a group? [Send us an email](mailto:coltong@fs
 
 ### Spring 2018
 
+date&nbsp;of&nbsp;event | time | description | location
 --- | --- | --- | ---
 Wed Jan 10 | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Thu Jan 11 | 3:30p | Research Talk, Jenny Fryers | [Olympia Library][lib]
@@ -28,16 +29,13 @@ Wed Feb 14 | 5:00p | Math Games, Dave Gardner | [Pear Blossom Place][pbp]
 Tue Feb 20 | 3:30p | [Coordinated Entry Workshop](https://docs.google.com/forms/d/e/1FAIpQLSfZrc6uvmrnuk4LXm3L0TwSOdrxjg_-hgh8Ok3dUjCvITgeGw/viewform?usp=sf_link), Colton Grainger | [Main Office][fsc]
 Thu Feb 22 | 3:30p | Higher Education Outreach, Raymond Mobley | [Pear Blossom Place][pbp]
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
-Tue Feb 27 | 6:30p | Anger Workshop (Elementary Ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
-
-> The Olympia School District is pleased to offer free child development workshops with Candyce Lund Bollinger.  Bollinger is a parent educator and private parenting counselor in Washington State and has been practicing for more than 35 years. She provides classes and consultations for schools, colleges, civic groups, private organizations and has a private practice.  She is the mother of four children and has two grandchildren.  A workshop designed to help parents understand anger, as well as learn tools to manage anger in themselves and their children.
-
---- | --- | --- | ---
+Tue Feb 27 | 6:30p | Anger Workshop for Elementary Ages, Candyce Bollinger (hosted by the [Olympia School District](https://osd.wednet.edu/departments/k_12_teaching_learning/child_development_workshops)) | [Olympia Regional Learning Academy][orla]
 Wed Fed 28 | 12:00p | [Volunteer Celebration](https://docs.google.com/forms/d/e/1FAIpQLSe5mc3dWauE9jeCt6ziN6Hq7KOaVNGqVCgmkCaWTLNdGibP8Q/viewform?usp=sf_link), Tara Jackson | [Gallery Boom][boom]
 Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Sat Mar 10 | 8:00p | [Dance to Make a Difference](http://www.studiowestdanceacademy.com/Home/Performances/DancetoMakeaDifference.aspx) | [Kenneth J Minnaert Center for the Arts](https://www.google.com/maps/place/Kenneth+J.+Minnaert+Center+for+the+Arts/@47.0245027,-122.9297411,15z/data=!4m5!3m4!1s0x0:0x4fe24c9bb51f79ab!8m2!3d47.0245027!4d-122.9297411?sa=X&ved=0ahUKEwj9scuRzpnZAhUC6mMKHVMOAtEQ_BIIcjAK)
-Tue Mar 13 | 6:30p | LGBTQAI Workshop (Teen ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
+Tue Mar 13 | 6:30p | LGBTQAI Workshop for Teen ages, Candyce Bollinger
+(hosted by the [Olympia School District](https://osd.wednet.edu/departments/k_12_teaching_learning/child_development_workshops)) | [Olympia Regional Learning Academy][orla]
 Mon Mar 19 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp] 
 Sat Mar 24 | all day | Mental Health First Aid, Tony Cloud | [Providence Immediate Care Lacey][prov]
 Wed Apr 11 | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]

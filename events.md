@@ -10,7 +10,6 @@ Want to host an activity? Or bring a group? [Send us an email](mailto:coltong@fs
 
 ### Spring 2018
 
-day&nbsp;of&nbsp;event | time | description | location
 --- | --- | --- | ---
 Wed Jan 10 | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Thu Jan 11 | 3:30p | Research Talk, Jenny Fryers | [Olympia Library][lib]
@@ -30,6 +29,10 @@ Tue Feb 20 | 3:30p | [Coordinated Entry Workshop](https://docs.google.com/forms/
 Thu Feb 22 | 3:30p | Higher Education Outreach, Raymond Mobley | [Pear Blossom Place][pbp]
 Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Tue Feb 27 | 6:30p | Anger Workshop (Elementary Ages), Candyce Bollinger | [Olympia Regional Learning Academy][orla]
+
+> The Olympia School District is pleased to offer free child development workshops with Candyce Lund Bollinger.  Bollinger is a parent educator and private parenting counselor in Washington State and has been practicing for more than 35 years. She provides classes and consultations for schools, colleges, civic groups, private organizations and has a private practice.  She is the mother of four children and has two grandchildren.  A workshop designed to help parents understand anger, as well as learn tools to manage anger in themselves and their children.
+
+--- | --- | --- | ---
 Wed Fed 28 | 12:00p | [Volunteer Celebration](https://docs.google.com/forms/d/e/1FAIpQLSe5mc3dWauE9jeCt6ziN6Hq7KOaVNGqVCgmkCaWTLNdGibP8Q/viewform?usp=sf_link), Tara Jackson | [Gallery Boom][boom]
 Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
@@ -44,7 +47,6 @@ Sun May 20 | 1:00p | Studio West Service | [Main Office][fsc]
 
 ### Summer 2018
 
-day&nbsp;of&nbsp;event | time | description | location
 --- | --- | --- | ---
 Mon Jul 2 -- Sat Jul 7 | all day | Camp HOPE High Adventure Week,  ages 11-17, [nominate a camper](https://docs.google.com/forms/d/e/1FAIpQLSePRAvyKdw3L1SFhbQGdpqhkuzhbik5E5yMBwgjv6zIyu5U0w/viewform) | Panhandle Lake 4-H Camp
 Mon Aug 20 -- Sat Aug 25 | all day | Camp HOPE Classic Week,  ages 7--11, [nominate a camper](https://docs.google.com/forms/d/e/1FAIpQLSePRAvyKdw3L1SFhbQGdpqhkuzhbik5E5yMBwgjv6zIyu5U0w/viewform) | Panhandle Lake 4-H Camp

@@ -7,7 +7,7 @@ order: 1
 ---
 
 <a href="http://fscss.org/">
-<img src="/images/logo.png" style="float: right; margin: 0px 0px 23px 23px" width="200">
+<img src="images/logo.png" style="float: right; margin: 0px 0px 23px 23px" width="200">
 </a>
 
 

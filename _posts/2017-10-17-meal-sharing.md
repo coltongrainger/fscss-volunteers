@@ -21,7 +21,7 @@ Sound's like plenty for a weekly meal at shelter.
 - quinoa
 - cereal
 - rolled oats
-- torillas
+- tortillas
 - canned soups
 - canned veggies
 - tuna
@@ -36,7 +36,7 @@ I also would like about 1 week's notice to organize the meal as a night activity
 
 Gabbi asked to share the recipes beforehand. 
 - Zucchini boats? 
-- Lasanga? 
+- Lasagna? 
 - Breakfast for dinner?
 	- French toast?
 

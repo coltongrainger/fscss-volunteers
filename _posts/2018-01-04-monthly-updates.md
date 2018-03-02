@@ -29,7 +29,7 @@ We recognize Angela Polson as volunteer of the month for her help calling famili
 
 ## November 2017
 
-We hosted reading hour, a STEM science project, 2 workshops on the prevention of child sexual abuse. We also opened for our [Cold Weather Shelter](/cold-weather) season. 
+We hosted reading hour, a STEM science project, 2 workshops on the prevention of child sexual abuse. We also opened for our [Cold Weather Shelter](cold-weather) season. 
 
 | Assignment | Hours | Volunteers |
 | ---| ---:|---:|

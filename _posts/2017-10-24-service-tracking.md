@@ -23,7 +23,7 @@ If you need accurate records prior to 7/1/2016, I suggest:
 
 I post hours directly from the schedule (with some auditing in case of no-shows, late arrivals, etc).
 
-The schedule closely relfects our service. Keiya and I keep the schedule meticulously updated. When a volunteer doesn't show up, we have to find a replacement, and we update the schedule. When a volunteer arrives late, we change the schedule.
+The schedule closely reflects our service. Keiya and I keep the schedule meticulously updated. When a volunteer doesn't show up, we have to find a replacement, and we update the schedule. When a volunteer arrives late, we change the schedule.
 
 Posting hours from the schedule has two benefits.
 1. There's no need for volunteers to make redundant reports in VicNet. 

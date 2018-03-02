@@ -30,4 +30,4 @@ It’s late after staff have left, and there are two families in room 103 that a
 ## See Also
 
 - The zine collection at the Olympia library addresses niche topics; look for tags in *self-care*, *mental health*, *homelessness*, etc.
-- Cindy Crab originally published *[Learning Good Consent](/documents/2016-Crabb.pdf)* as a zine, which comments on supporting survivors of sexual assualt.
+- Cindy Crab originally published *[Learning Good Consent](documents/2016-Crabb.pdf)* as a zine, which comments on supporting survivors of sexual assualt.

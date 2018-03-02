@@ -18,7 +18,7 @@ From [Model Protocol on Confidentiality when Working with Battered Women](https:
 > Communications are confidential whether made by adults or children, and whether to or between staff, volunteers, student interns or board members of this organization.
 > 
 > There are a limited number of exceptions to breaching the confidentiality of program participants. These exceptions are as follows:
-> - Duty to report [child abuse or neglect](/safety) (RWC 26.44.030);
+> - Duty to report [child abuse or neglect](safety) (RWC 26.44.030);
 > - Duty to warn of an imminent threat of harm to self or others (this is known as a Tarasoff warning, based on case law);
 > - Following a court order, after a judge privately reviews program participant
 > records (RCW 70.123.075); or
@@ -26,7 +26,7 @@ From [Model Protocol on Confidentiality when Working with Battered Women](https:
 
 ## Recommended Procedures
 
-From [HOWTO: Answer the phone](/answering-phone):
+From [HOWTO: Answer the phone]/answering-phone):
 > Do not disclose if someone is (or is not) staying in shelter. 
 > 
 > For example

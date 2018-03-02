@@ -13,7 +13,6 @@ tags:
 - You can sign up for **[text message reminders](https://www.remind.com/join/nnf-pbp)**.
 - We have kid-sized rain boots and body suits. Before getting too tired, we eat a breakfast snack.
 
-
 ### Who is welcome?
 
 - Families staying in Cold Weather Shelter or as guests at Pear Blossom Place.
@@ -27,12 +26,12 @@ tags:
 |[Nature Nurtures Farm](http://www.naturenurturesfarm.org) | 2406 Delphi Rd SW Olympia, WA 98512 |
 |[school@naturenurturesfarm.org](mailto:school@naturenurturesfarm.org)|(651) 491-0076| 
 
-![muddy](/images/muddy.jpg)
-![chickens](/images/chickens.jpg)
-![hay](/images/hay.jpg)
-![ponies](/images/ponies.jpg)
-![llamas](/images/llamas.jpg)
-![pigs](/images/pigs.jpg)
+![muddy](images/muddy.jpg)
+![chickens](images/chickens.jpg)
+![hay](images/hay.jpg)
+![ponies](images/ponies.jpg)
+![llamas](images/llamas.jpg)
+![pigs](images/pigs.jpg)
 
 > Nature Nurtures Farm is non-profit organization that brings young people and animals together to build empathy, teach responsibility, and inspire hope. Nature Nurtures Farm is dedicated to providing educational, therapeutic, and recreational services to youth and families in a safe and peaceful environment that fosters dignity, compassion, and respect for all living things.
 

@@ -28,18 +28,20 @@ Wed Feb 14 | 11:00am | Thurston Chamber Forum: Education Summit | [Hotel RL Olym
 Wed Feb 14 | 5:00p | Math Games, Dave Gardner | [Pear Blossom Place][pbp]
 Tue Feb 20 | 3:30p | [Coordinated Entry Workshop](https://docs.google.com/forms/d/e/1FAIpQLSfZrc6uvmrnuk4LXm3L0TwSOdrxjg_-hgh8Ok3dUjCvITgeGw/viewform?usp=sf_link), Colton Grainger | [Main Office][fsc]
 Thu Feb 22 | 3:30p | Higher Education Outreach, Raymond Mobley | [Pear Blossom Place][pbp]
-Mon Feb 26 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp]
 Tue Feb 27 | 6:30p | Anger Workshop for Elementary Ages, Candyce Bollinger (hosted by [OSD](https://osd.wednet.edu/departments/k_12_teaching_learning/child_development_workshops)) | [Olympia Regional Learning Academy][orla]
 Wed Fed 28 | 12:00p | [Volunteer Celebration](https://docs.google.com/forms/d/e/1FAIpQLSe5mc3dWauE9jeCt6ziN6Hq7KOaVNGqVCgmkCaWTLNdGibP8Q/viewform?usp=sf_link), Tara Jackson | [Gallery Boom][boom]
-Thu Mar 8  | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
+Fri Mar 2 | 5:00p | Free First Friday Night | [Hands On Children's Museum][hocm]
+Thu Mar 8  | 3:30p | Preventing Child Sexual Abuse (tentative), Linda Sisson | [Olympia Library][lib] 
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Sat Mar 10 | 8:00p | [Dance to Make a Difference](http://www.studiowestdanceacademy.com/Home/Performances/DancetoMakeaDifference.aspx) (hosted by Studio West) | [Kenneth J Minnaert Center for the Arts](https://www.google.com/maps/place/Kenneth+J.+Minnaert+Center+for+the+Arts/@47.0245027,-122.9297411,15z/data=!4m5!3m4!1s0x0:0x4fe24c9bb51f79ab!8m2!3d47.0245027!4d-122.9297411?sa=X&ved=0ahUKEwj9scuRzpnZAhUC6mMKHVMOAtEQ_BIIcjAK)
 Tue Mar 13 | 6:30p | LGBTQAI Workshop for Teen ages, Candyce Bollinger (hosted by [OSD](https://osd.wednet.edu/departments/k_12_teaching_learning/child_development_workshops)) | [Olympia Regional Learning Academy][orla]
-Mon Mar 19 | 5:30p | Reading Hour, Mary Rulewicz | [Pear Blossom Place][pbp] 
+Tue Mar 20 | 9:00a | Field Trip (ages 3 and up) | [Hands On Children's Museum][hocm]
 Sat Mar 24 | all day | Mental Health First Aid, Tony Cloud | [Providence Immediate Care Lacey][prov]
 Wed Apr 11 | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
-Thu Apr 12 | 3:30p | Volunteer workshop, speaker TBD | [Olympia Library][lib] 
+Thu Apr 12 | 3:30p | Boundaries with Children, Colton Grainger | [Olympia Library][lib]
 Sun Apr 15 | 1:00p | Studio West Service | [Main Office][fsc]
+Sun May 13 | 7:30a | [4th Annual Mother's Day
+5k](https://www.facebook.com/events/364858170646944/) | [Main Office][fsc]
 Sun May 20 | 1:00p | Studio West Service | [Main Office][fsc]
 
 ### Summer 2018
@@ -56,3 +58,4 @@ Mon Aug 20 -- Sat Aug 25 | all day | Camp HOPE Classic Week,  ages 7--11, [nomin
 [olf]: https://www.google.com/maps/place/Olympia+Family+Theater/@47.0455796,-122.8949079,15z/data=!4m5!3m4!1s0x0:0xf516848f82fe4804!8m2!3d47.0455796!4d-122.8949079?sa=X&ved=0ahUKEwjZp-fVqOrYAhVX6mMKHecpBCAQ_BIIfDAN
 [rl]: https://www.google.com/maps/place/Hotel+RL+Olympia+by+Red+Lion/@47.0275609,-122.9150658,17z/data=!3m1!4b1!4m5!3m4!1s0x54917456da117c1d:0xa6dfdaf9bc0519a!8m2!3d47.0275609!4d-122.9128718
 [boom]: https://www.google.com/maps/place/Gallery+Boom/@47.0438683,-122.8977474,15z/data=!4m5!3m4!1s0x0:0x581b05a97efcc4b2!8m2!3d47.0438683!4d-122.8977474?sa=X&ved=0ahUKEwjc9KnrqZnZAhVY1GMKHV_4DHkQ_BIIhQEwDw
+[hocm]: https://www.google.com/maps/place/Hands+On+Children's+Museum/@47.048043,-122.8989597,17z/data=!3m1!4b1!4m5!3m4!1s0x549174fd4fabd173:0x9bd4de293a89eea8!8m2!3d47.048043!4d-122.896771

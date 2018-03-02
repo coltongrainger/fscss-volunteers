@@ -10,7 +10,7 @@ Notes for volunteers, grouped by subject.
 <dl>
 {% for post in site.tags["orientation"] %}
       <dt>
-	<a href="{{ post.url }}">{{ post.title }}</a> 
+	<a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> 
       </dt>
 {% endfor %}
 </dl>
@@ -19,7 +19,7 @@ Notes for volunteers, grouped by subject.
 <dl>
 {% for post in site.tags["safety"] %}
       <dt>
-	<a href="{{ post.url }}">{{ post.title }}</a> 
+	<a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> 
       </dt>
 {% endfor %}
 </dl>
@@ -28,7 +28,7 @@ Notes for volunteers, grouped by subject.
 <dl>
 {% for post in site.tags["activities"] %}
       <dt>
-	<a href="{{ post.url }}">{{ post.title }}</a> 
+	<a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> 
       </dt>
 {% endfor %}
 </dl>
@@ -37,7 +37,7 @@ Notes for volunteers, grouped by subject.
 <dl>
 {% for post in site.tags["statistics"] %}
       <dt>
-	<a href="{{ post.url }}">{{ post.title }}</a> 
+	<a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> 
       </dt>
 {% endfor %}
 </dl>

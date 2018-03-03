@@ -8,7 +8,7 @@ tags:
 
 ### Half Day Childcare 9a--12p
 
-- On **Tuesdays and Thursdays through February 27**, Claire Petersen run field trips (in a van with carseats) from Pear Blossom Place at Nature Nurtures Farm. 
+- On **Tuesdays and Thursdays**, Claire Petersen run field trips (in a van with carseats) from Pear Blossom Place at Nature Nurtures Farm. 
 - The **pickup time is 8:30a--9:00a**, and the van **returns before 12:00 noon**.
 - You can sign up for **[text message reminders](https://www.remind.com/join/nnf-pbp)**.
 - We have kid-sized rain boots and body suits. Before getting too tired, we eat a breakfast snack.

@@ -31,7 +31,7 @@ Thu Feb 22 | 3:30p | Higher Education Outreach, Raymond Mobley | [Pear Blossom P
 Tue Feb 27 | 6:30p | Anger Workshop for Elementary Ages, Candyce Bollinger (hosted by [OSD](https://osd.wednet.edu/departments/k_12_teaching_learning/child_development_workshops)) | [Olympia Regional Learning Academy][orla]
 Wed Fed 28 | 12:00p | [Volunteer Celebration](https://docs.google.com/forms/d/e/1FAIpQLSe5mc3dWauE9jeCt6ziN6Hq7KOaVNGqVCgmkCaWTLNdGibP8Q/viewform?usp=sf_link), Tara Jackson | [Gallery Boom][boom]
 Fri Mar 2 | 5:00p | Free First Friday Night | [Hands On Children's Museum][hocm]
-Thu Mar 8  | 3:30p | Preventing Child Sexual Abuse (tentative), Linda Sisson | [Olympia Library][lib] 
+Thu Mar 8  | 3:30p | New Volunteer Workshop, Colton Grainger | [Olympia Library][lib] 
 Fri Mar 9  | 5:30p | STEM kids project, Hannah Hillig | [Pear Blossom Place][pbp]
 Sat Mar 10 | 8:00p | [Dance to Make a Difference](http://www.studiowestdanceacademy.com/Home/Performances/DancetoMakeaDifference.aspx) (hosted by Studio West) | [Kenneth J Minnaert Center for the Arts](https://www.google.com/maps/place/Kenneth+J.+Minnaert+Center+for+the+Arts/@47.0245027,-122.9297411,15z/data=!4m5!3m4!1s0x0:0x4fe24c9bb51f79ab!8m2!3d47.0245027!4d-122.9297411?sa=X&ved=0ahUKEwj9scuRzpnZAhUC6mMKHVMOAtEQ_BIIcjAK)
 Tue Mar 13 | 6:30p | LGBTQAI Workshop for Teen ages, Candyce Bollinger (hosted by [OSD](https://osd.wednet.edu/departments/k_12_teaching_learning/child_development_workshops)) | [Olympia Regional Learning Academy][orla]

@@ -40,15 +40,41 @@ In Thurston County, the Family Support Center runs coordinated entry for familie
  
 Three different agencies provide coordinated entry for singles, families, and youth:
 
-- Interfaith Works/Sidewalk (single men and women)
-  - 1139 5th Ave SE; Olympia
+- Interfaith Works/Sidewalk 
+  - single men and women
   - 360-515-5587
-- Family Support Center (families with children, expecting parents)
-  - 201 Capital Way; Olympia
+> - The Salvation Army
+>   - single men and women, service animals welcome.
+>   - 360-252-9569
+>   - [824 5th Ave SE Olympia, WA 98501](https://www.google.com/maps/place/The+Salvation+Army+Hans+J.+Lemcke+Emergency+Lodge/@47.0448562,-122.8942553,17z/data=!4m5!3m4!1s0x0:0x6d3c24ab0e02b984!8m2!3d47.0448562!4d-122.8920666)
+> - Union Gospel Mission
+>   - Single men and women, service animals welcome.
+>   - [413 Franklin St NE #A, Olympia, WA 98506](https://www.google.com/maps/place/413+Franklin+St+NE,+Olympia,+WA+98501/@47.0480999,-122.8996642,17z/data=!4m13!1m7!3m6!1s0x54917519a6903899:0x75efc1ef2fa8dcf8!2s413+Franklin+St+NE,+Olympia,+WA+98501!3b1!8m2!3d47.048138!4d-122.9001265!3m4!1s0x54917519a6903899:0x75efc1ef2fa8dcf8!8m2!3d47.048138!4d-122.9001265)
+
+- Family Support Center 
+  - Families of any kind with dependents under 18 (or in high school, or developmentally disabled), or pregnant women & partner, all genders, service animals welcome.
+  - 201 Capitol Way; Olympia
   - 360-754-9297
-- Community Youth Services (youth up to 24 years of age)
+> - Pear Blossom Place
+>   - 360-628-7343
+>   - [837 7th Ave SE Olympia, 98501](https://www.google.com/maps/place/Pear+Blossom+Place/@47.0423792,-122.8932699,17z/data=!3m1!4b1!4m5!3m4!1s0x549174e1d548747f:0x4e89b380a6ff5f9e!8m2!3d47.0423792!4d-122.8910812)
+
+- Community Youth Services
+  - youth up to 24 years of age
   - 711 State Ave NE; Olympia
   - 360-943-0780
+> - Rosie's Place
+>   - Young adults ages 18-24, all genders welcome.
+>   - 360-918-7879
+>   - [520 Pear St. SE, Olympia, WA 98501](https://www.google.com/maps/place/520+Pear+St+SE,+Olympia,+WA+98501/@47.0441562,-122.8930431,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751f953e2c63:0x201682d590dfb593!8m2!3d47.0441562!4d-122.8908544)
+
+Additionally, SafePlace operates a 24/7 hotline for survivors of domestic
+violence. 
+
+- Safe Place
+  - advocacy and shelter for survivors of DV and SA
+  - 360-754-6300
+  - 521 Legion Way SE, Olympia, WA 98501
 
 ### Protect client confientiality. 
 

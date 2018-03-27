@@ -6,6 +6,28 @@ tags:
   - safety 
 ---
 
+If client is an imminent risk to self, others, or property (or is in need of immediate medical attention) then please contact local law enforcement and/or EMS.
+
+## Community Partners for de-escalation
+
+- get ahold of the on-call staff!
+- Telecare Thurston County Mobile Outreach (MOT) 
+  > Support in the community for those experiencing a crisis related to mental illness and/or substance use.
+  >
+  > To coordinate services with first responders (police, EMS) on initial screening and triage.
+  >
+  > For on-site assessment, stabilization, and safety planning.
+  >
+  > For adults ages 18 and older; diagnosed with a severe mental illness; or experiencing an emotional and/or behavioral disturbance, including substance use/abuse, in Thurston or Mason County.
+  - 360-754-2423
+  - Mon--Fri 8:30a--10:00p
+  - Sat, Sun 1:30p--10:00p
+- Thurston County Sheriff's Office 
+  > To file a non-emergent police report.
+  - 360-704-2740 
+
+
+
 ## De-Escalation
 
 From the [Crisis Prevention Institute](https://www.crisisprevention.com/Blog/June-2011/De-escalation-Tips)

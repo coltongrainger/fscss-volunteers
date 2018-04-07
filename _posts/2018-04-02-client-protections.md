@@ -3,6 +3,9 @@ title: Protections against discrimination
 author: Colton Grainger
 date: 2018-04-02
 status: notes 
+tags:
+  - orientation
+  - safety
 ---
 
 Here are some areas where discrimination is most likely to manifest at the

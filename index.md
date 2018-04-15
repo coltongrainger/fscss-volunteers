@@ -3,7 +3,7 @@ title: home
 author: Colton Grainger
 order: 1
 # date: 2017-08-21
-# modified: 2018-01-04
+# modified: 2018-04-15
 ---
 
 <a href="http://fscss.org/">
@@ -54,10 +54,6 @@ Please reach out to Colton if you have questions or concerns.
 Colton Grainger | Community Engagement Specialist
 Family Support Center | 837 7th Ave SE Olympia, WA
 [coltong@fscss.org](mailto:coltong@fscss.org) | 360-754-9297 ext. 306
-
-## Employment
-
-Beginning Feb 20th 2018, we are hiring for a [Homeless Family Services Case Manager](documents/2018-02-20-HFS-case-manager-position.pdf).
 
 [pbp]: https://www.google.com/maps/place/Pear+Blossom+Place/@47.0423792,-122.8932699,17z/data=!3m1!4b1!4m5!3m4!1s0x549174e1d548747f:0x4e89b380a6ff5f9e!8m2!3d47.0423792!4d-122.8910812 
 [fsc]: https://www.google.com/maps/place/Family+Support+Center/@47.0459107,-122.9042318,17z/data=!3m1!4b1!4m5!3m4!1s0x5491751bc115f4a1:0xa72d6746d527f48e!8m2!3d47.0459107!4d-122.9020431 

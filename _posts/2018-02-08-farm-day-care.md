@@ -2,6 +2,7 @@
 title: Nature Nutures Farm Field Trips
 author: Colton Grainger
 date: 2018-01-30
+modified: 2018-04-25
 tags:
   - activities
 ---
@@ -16,8 +17,10 @@ tags:
 ### Who is welcome?
 
 - Families staying in Cold Weather Shelter or as guests at Pear Blossom Place.
-- The trips are intended for children who can walk independently, between late 2 years old to 5 years old.
-- Parents are welcome to come but not required.
+  - Technically families enrolled in Homeless Family Services at the Family
+      Support Center.
+- The trips are intended for children who can walk independently, between late 2 to 6 years old.
+- We have limited capacity in the vans, generally 6 spots are available.
 
 ### Contact
 
